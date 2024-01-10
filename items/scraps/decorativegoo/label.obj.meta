@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a6a844b4ceb2c4e4ab13c6c4f4bb16ad
+guid: 8f7c685c899c29e488421a2de5234c66
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -105,5 +105,5 @@ ModelImporter:
   remapMaterialsIfMaterialImportModeIsNone: 0
   additionalBone: 0
   userData: 
-  assetBundleName: pikminscrap
+  assetBundleName: pikmintreasurescrap
   assetBundleVariant: lem

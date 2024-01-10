@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6fbfd3888b7e3e94cad464e66df9c9b2
+guid: 014eff97c178e484ea4c7695413810b5
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -123,5 +123,5 @@ TextureImporter:
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
-  assetBundleName: pikminscrap
+  assetBundleName: pikmintreasurescrap
   assetBundleVariant: lem
