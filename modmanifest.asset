@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1366554475, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+  m_Name: modmanifest
+  m_EditorClassIdentifier: 
+  modName: Pikmin Scrap
+  version:
+    Major: 1
+    Minor: 0
+    Build: 0
+    Revision: 0
+  serializedVersion: 1.0.0.0
+  author: Pikmanfan2002
+  description: Adds 11 treasures from Pikmin 2 into Lethal Company!
+  scraps:
+  - {fileID: 11400000, guid: ec595f55f745c51458c777a455a2b74d, type: 2}
+  - {fileID: 11400000, guid: 476777416c799b844ae2e043f8a7f1e9, type: 2}
+  - {fileID: 11400000, guid: 6e7e5a409fbb30f4188500de378c97fa, type: 2}
+  - {fileID: 11400000, guid: cb81176a3b6367045ab8106525c06a8e, type: 2}
+  - {fileID: 11400000, guid: 5fc616e380c804149b084b22313fbca2, type: 2}
+  - {fileID: 11400000, guid: c7cc6b657edf33b4baa951e2eaedc30f, type: 2}
+  - {fileID: 11400000, guid: a043fd260ec94f6438a92069e9ef5af6, type: 2}
+  - {fileID: 11400000, guid: 6f4b2914951aa384c8719f806f84dcb6, type: 2}
+  - {fileID: 11400000, guid: b2b7ed8472b50434d8abd069ba7f6596, type: 2}
+  - {fileID: 11400000, guid: 31380edb1331c2b45acadec20b2f6008, type: 2}
+  - {fileID: 11400000, guid: 3fad96a11439c02448de003ff20f670f, type: 2}
+  moons: []
+  assetBank: {fileID: 11400000, guid: 1500ac4fef158a04888f88a2bc27d624, type: 2}
