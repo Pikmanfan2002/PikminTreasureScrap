@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: cd34a5e256ae97441b5db1b3c7103f9a
+guid: c118651b8f7b3a841a57b9b2903eeef6
 AudioImporter:
   externalObjects: {}
   serializedVersion: 7
@@ -19,5 +19,5 @@ AudioImporter:
   ambisonic: 0
   3D: 1
   userData: 
-  assetBundleName: pikmintreasurescrap
+  assetBundleName: pikminscrap
   assetBundleVariant: lem
