@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 414444751, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
-  m_Name: droughtender
+  m_Name: hypnoticplatter
   m_EditorClassIdentifier: 
   RequiredBundles: []
   IncompatibleBundles: []
   scrapType: 0
-  itemName: Drought Ender
+  itemName: Hypnotic Platter
   minValue: 30
   maxValue: 75
   twoHanded: 0
@@ -23,22 +23,22 @@ MonoBehaviour:
   requiresBattery: 0
   isConductiveMetal: 1
   weight: 12
-  prefab: {fileID: 9076367395812525098, guid: 56adb584d8d781742947a0a6e06bae25, type: 3}
+  prefab: {fileID: 8779520295364104771, guid: c02c092782e89dd4eade4505c7c8fb80, type: 3}
   grabSFX: 
   dropSFX: DropMetalObject1
-  verticalOffset: 0.1
+  verticalOffset: 0
   restingRotation: {x: 0, y: 0, z: 0}
   positionOffset: {x: 0, y: 0.175, z: -0.15}
   rotationOffset: {x: 160, y: 140, z: 0}
   meshVariants: []
   materialVariants: []
-  useGlobalSpawnWeight: 0
-  globalSpawnWeight: 3
+  useGlobalSpawnWeight: 1
+  globalSpawnWeight: 100
   _perPlanetSpawnWeight:
   - SceneName: 41 Experimentation
-    SpawnWeight: 1
+    SpawnWeight: 3
   - SceneName: 220 Assurance
-    SpawnWeight: 1
+    SpawnWeight: 3
   - SceneName: 56 Vow
     SpawnWeight: 3
   - SceneName: 21 Offense
@@ -48,7 +48,7 @@ MonoBehaviour:
   - SceneName: 85 Rend
     SpawnWeight: 5
   - SceneName: 7 Dine
-    SpawnWeight: 3
+    SpawnWeight: 5
   - SceneName: 8 Titan
     SpawnWeight: 5
   - SceneName: Others
@@ -93,5 +93,5 @@ MonoBehaviour:
   - Fart2
   - Fart3
   - Fart5
-  serializedData: 41 Experimentation,1;220 Assurance,1;56 Vow,3;21 Offense,3;61 March,3;85
-    Rend,5;7 Dine,3;8 Titan,5;Others,3
+  serializedData: 41 Experimentation,3;220 Assurance,3;56 Vow,3;21 Offense,3;61 March,3;85
+    Rend,5;7 Dine,5;8 Titan,5;Others,3
