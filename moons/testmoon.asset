@@ -59,9 +59,7 @@ MonoBehaviour:
     Rarity: 300
   - ID: 1
     Rarity: 1
-  _SpawnableScrap:
-  - ObjectName: doomsdayapparatus
-    SpawnWeight: 20
+  _SpawnableScrap: []
   MinScrap: 45
   MaxScrap: 55
   LevelAmbienceClips: Level1TypeAmbience
@@ -503,7 +501,7 @@ MonoBehaviour:
   LevelIncludesSnowFootprints: 0
   serializedRandomWeatherTypes: -1,0,0;1,0,0;2,1,0;3,1,0;4,-4,5;5,1,0
   serializedDungeonFlowTypes: 0,300;1,1
-  serializedSpawnableScrap: doomsdayapparatus,20
+  serializedSpawnableScrap: 
   serializedEnemies: 
   serializedOutsideEnemies: 
   serializedDaytimeEnemies: 

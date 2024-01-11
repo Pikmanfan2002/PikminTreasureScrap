@@ -15,10 +15,10 @@ MonoBehaviour:
   modName: Pikmin Scrap
   version:
     Major: 1
-    Minor: 3
+    Minor: 4
     Build: 0
     Revision: 0
-  serializedVersion: 1.3.0.0
+  serializedVersion: 1.4.0.0
   author: Pikmanfan2002
   description: Adds 17 treasures from Pikmin 2 into Lethal Company!
   scraps:
@@ -39,6 +39,8 @@ MonoBehaviour:
   - {fileID: 11400000, guid: ef6918c657199d5479a8cecd66d9d2bf, type: 2}
   - {fileID: 11400000, guid: fd180c91bc9572e479beabca214c9e4b, type: 2}
   - {fileID: 11400000, guid: 3af87dd112cf42d43a9172fe16608704, type: 2}
+  - {fileID: 11400000, guid: e4a8e23f44deead40acdf6b998ad908a, type: 2}
+  - {fileID: 11400000, guid: 5d2ba606372e868499015cc4f5ab04b5, type: 2}
   moons:
   - {fileID: 11400000, guid: 66d59ba8b9f85194c8472e25a216771d, type: 2}
   assetBank: {fileID: 11400000, guid: 1500ac4fef158a04888f88a2bc27d624, type: 2}

@@ -10,49 +10,49 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 414444751, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
-  m_Name: hypnoticplatter
+  m_Name: gleespinner
   m_EditorClassIdentifier: 
   RequiredBundles: []
   IncompatibleBundles: []
   scrapType: 0
-  itemName: Hypnotic Platter
-  minValue: 50
-  maxValue: 125
+  itemName: Glee Spinner
+  minValue: 0
+  maxValue: 0
   twoHanded: 0
   HandedAnimation: 0
   requiresBattery: 0
-  isConductiveMetal: 1
-  weight: 12
-  prefab: {fileID: 2692120584568858473, guid: bd06326902c23cc40964c440dc5751c9, type: 3}
+  isConductiveMetal: 0
+  weight: 0
+  prefab: {fileID: 2059528908971286398, guid: efa81f8cd6c5c3246b266f94e8362f1e, type: 3}
   grabSFX: 
-  dropSFX: DropMetalObject1
+  dropSFX: DropPlastic1
   verticalOffset: 0
   restingRotation: {x: 0, y: 0, z: 0}
-  positionOffset: {x: 0, y: 0.175, z: -0.15}
-  rotationOffset: {x: 160, y: 140, z: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
+  rotationOffset: {x: 0, y: 0, z: 0}
   meshVariants: []
   materialVariants: []
-  useGlobalSpawnWeight: 0
-  globalSpawnWeight: 99
+  useGlobalSpawnWeight: 1
+  globalSpawnWeight: 100
   _perPlanetSpawnWeight:
   - SceneName: 41 Experimentation
-    SpawnWeight: 6
+    SpawnWeight: 10
   - SceneName: 220 Assurance
-    SpawnWeight: 6
+    SpawnWeight: 10
   - SceneName: 56 Vow
-    SpawnWeight: 9
+    SpawnWeight: 10
   - SceneName: 21 Offense
-    SpawnWeight: 9
+    SpawnWeight: 10
   - SceneName: 61 March
-    SpawnWeight: 9
+    SpawnWeight: 10
   - SceneName: 85 Rend
-    SpawnWeight: 11
+    SpawnWeight: 10
   - SceneName: 7 Dine
-    SpawnWeight: 11
+    SpawnWeight: 10
   - SceneName: 8 Titan
-    SpawnWeight: 11
+    SpawnWeight: 10
   - SceneName: Others
-    SpawnWeight: 9
+    SpawnWeight: 10
   shovelHitForce: 1
   isHoldingButton: 0
   shovelAudio: {fileID: 0}
@@ -93,5 +93,5 @@ MonoBehaviour:
   - Fart2
   - Fart3
   - Fart5
-  serializedData: 41 Experimentation,6;220 Assurance,6;56 Vow,9;21 Offense,9;61 March,9;85
-    Rend,11;7 Dine,11;8 Titan,11;Others,9
+  serializedData: 41 Experimentation,10;220 Assurance,10;56 Vow,10;21 Offense,10;61
+    March,10;85 Rend,10;7 Dine,10;8 Titan,10;Others,10
