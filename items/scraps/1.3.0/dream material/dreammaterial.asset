@@ -22,7 +22,7 @@ MonoBehaviour:
   HandedAnimation: 0
   requiresBattery: 0
   isConductiveMetal: 0
-  weight: 17
+  weight: 14
   prefab: {fileID: 8605195288329141009, guid: 4431235c924d6f8409694aa944ad6d08, type: 3}
   grabSFX: GrabCardboardBox
   dropSFX: DropCardboardBox
