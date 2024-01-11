@@ -23,7 +23,7 @@ MonoBehaviour:
   requiresBattery: 0
   isConductiveMetal: 0
   weight: 0
-  prefab: {fileID: 0}
+  prefab: {fileID: 6743101080072597397, guid: 2baf65e7c90736147a40ae190f7def97, type: 3}
   grabSFX: 
   dropSFX: 
   verticalOffset: 0

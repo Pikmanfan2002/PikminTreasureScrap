@@ -12,15 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: -1366554475, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
   m_Name: modmanifest
   m_EditorClassIdentifier: 
-  modName: Pikmin Scrap
+  modName: PikminTreasureScrap
   version:
     Major: 1
-    Minor: 0
+    Minor: 3
     Build: 0
     Revision: 0
-  serializedVersion: 1.0.0.0
+  serializedVersion: 1.3.0.0
   author: Pikmanfan2002
-  description: Adds 11 treasures from Pikmin 2 into Lethal Company!
+  description: Adds 17 treasures from Pikmin 2 into Lethal Company!
   scraps:
   - {fileID: 11400000, guid: ec595f55f745c51458c777a455a2b74d, type: 2}
   - {fileID: 11400000, guid: 476777416c799b844ae2e043f8a7f1e9, type: 2}
@@ -33,6 +33,11 @@ MonoBehaviour:
   - {fileID: 11400000, guid: b2b7ed8472b50434d8abd069ba7f6596, type: 2}
   - {fileID: 11400000, guid: 31380edb1331c2b45acadec20b2f6008, type: 2}
   - {fileID: 11400000, guid: 3fad96a11439c02448de003ff20f670f, type: 2}
+  - {fileID: 11400000, guid: 397714b171c138a49ab14d0aa99e3034, type: 2}
+  - {fileID: 11400000, guid: 004bd87d6e0f5d747b61afe061e0d549, type: 2}
+  - {fileID: 11400000, guid: c038b7820acbd62499ec1795f9f406b6, type: 2}
+  - {fileID: 11400000, guid: ef6918c657199d5479a8cecd66d9d2bf, type: 2}
+  - {fileID: 11400000, guid: fd180c91bc9572e479beabca214c9e4b, type: 2}
   - {fileID: 11400000, guid: 3af87dd112cf42d43a9172fe16608704, type: 2}
   moons:
   - {fileID: 11400000, guid: 57934e64b2af35449ba35d5780e73d1a, type: 2}
