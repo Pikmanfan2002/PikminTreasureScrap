@@ -10,17 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: -2065973508, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
-  m_Name: pikminscrapassetbank
+  m_Name: pikmintreasurescrapassetbank
   m_EditorClassIdentifier: 
   _audioClips:
   - AudioClipName: VineBoom
     AudioClipPath: 
     AudioClip: {fileID: 8300000, guid: c118651b8f7b3a841a57b9b2903eeef6, type: 3}
-  _planetPrefabs:
-  - PlanetPrefabName: 
-    PlanetPrefabPath: 
-    PlanetPrefab: {fileID: 2802582009948295791, guid: 2929e118fcbe70941ac48b745a033b69, type: 3}
+  _planetPrefabs: []
   _networkPrefabs: []
-  serializedAudioClips: VineBoom,Assets/Mods/PikminScrap/sounds/vineboom.mp3
-  serializedPlanetPrefabs: oldseaportplanetprefab,Assets/Mods/TemplateMod/moons/oldseaportplanetprefab.prefab
+  serializedAudioClips: VineBoom,Assets/Mods/PikminTreasureScrap/sounds/vineboom.mp3
+  serializedPlanetPrefabs: 
   serializedNetworkPrefabs: 

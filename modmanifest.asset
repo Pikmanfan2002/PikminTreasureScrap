@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: -1366554475, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
   m_Name: modmanifest
   m_EditorClassIdentifier: 
-  modName: PikminTreasureScrap
+  modName: Pikmin Scrap
   version:
     Major: 1
     Minor: 3
@@ -40,5 +40,5 @@ MonoBehaviour:
   - {fileID: 11400000, guid: fd180c91bc9572e479beabca214c9e4b, type: 2}
   - {fileID: 11400000, guid: 3af87dd112cf42d43a9172fe16608704, type: 2}
   moons:
-  - {fileID: 11400000, guid: 57934e64b2af35449ba35d5780e73d1a, type: 2}
+  - {fileID: 11400000, guid: 66d59ba8b9f85194c8472e25a216771d, type: 2}
   assetBank: {fileID: 11400000, guid: 1500ac4fef158a04888f88a2bc27d624, type: 2}

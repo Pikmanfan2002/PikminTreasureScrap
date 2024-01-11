@@ -16,8 +16,8 @@ MonoBehaviour:
   IncompatibleBundles: []
   scrapType: 0
   itemName: Quenching Emblem
-  minValue: 30
-  maxValue: 75
+  minValue: 50
+  maxValue: 125
   twoHanded: 0
   HandedAnimation: 0
   requiresBattery: 0
@@ -33,7 +33,7 @@ MonoBehaviour:
   meshVariants: []
   materialVariants: []
   useGlobalSpawnWeight: 0
-  globalSpawnWeight: 3
+  globalSpawnWeight: 100
   _perPlanetSpawnWeight:
   - SceneName: 41 Experimentation
     SpawnWeight: 1

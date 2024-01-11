@@ -16,8 +16,8 @@ MonoBehaviour:
   IncompatibleBundles: []
   scrapType: 0
   itemName: Sunseed Berry
-  minValue: 15
-  maxValue: 95
+  minValue: 25
+  maxValue: 158
   twoHanded: 0
   HandedAnimation: 0
   requiresBattery: 0
@@ -33,7 +33,7 @@ MonoBehaviour:
   meshVariants: []
   materialVariants: []
   useGlobalSpawnWeight: 0
-  globalSpawnWeight: 7
+  globalSpawnWeight: 100
   _perPlanetSpawnWeight:
   - SceneName: 41 Experimentation
     SpawnWeight: 8

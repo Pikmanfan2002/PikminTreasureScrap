@@ -16,29 +16,29 @@ MonoBehaviour:
   IncompatibleBundles: []
   scrapType: 0
   itemName: Cupids Grenade
-  minValue: 0
-  maxValue: 0
+  minValue: 1
+  maxValue: 131
   twoHanded: 0
   HandedAnimation: 0
   requiresBattery: 0
   isConductiveMetal: 0
-  weight: 0
-  prefab: {fileID: 8407752817529095890, guid: f40c2cf1c52bb0d4ca29c8db5ab92617, type: 3}
-  grabSFX: 
-  dropSFX: 
+  weight: 2
+  prefab: {fileID: 397702730374034132, guid: f40c2cf1c52bb0d4ca29c8db5ab92617, type: 3}
+  grabSFX: GrabCardboardBox
+  dropSFX: DropCardboardBox
   verticalOffset: 0
   restingRotation: {x: 0, y: 0, z: 0}
-  positionOffset: {x: 0, y: 0, z: 0}
-  rotationOffset: {x: 0, y: 0, z: 0}
+  positionOffset: {x: 0, y: 0, z: -0.1}
+  rotationOffset: {x: 0, y: 0, z: -90}
   meshVariants: []
   materialVariants: []
-  useGlobalSpawnWeight: 1
+  useGlobalSpawnWeight: 0
   globalSpawnWeight: 100
   _perPlanetSpawnWeight:
   - SceneName: 41 Experimentation
-    SpawnWeight: 10
+    SpawnWeight: 8
   - SceneName: 220 Assurance
-    SpawnWeight: 10
+    SpawnWeight: 8
   - SceneName: 56 Vow
     SpawnWeight: 10
   - SceneName: 21 Offense
@@ -46,11 +46,11 @@ MonoBehaviour:
   - SceneName: 61 March
     SpawnWeight: 10
   - SceneName: 85 Rend
-    SpawnWeight: 10
+    SpawnWeight: 8
   - SceneName: 7 Dine
-    SpawnWeight: 10
+    SpawnWeight: 8
   - SceneName: 8 Titan
-    SpawnWeight: 10
+    SpawnWeight: 15
   - SceneName: Others
     SpawnWeight: 10
   shovelHitForce: 1
@@ -93,5 +93,5 @@ MonoBehaviour:
   - Fart2
   - Fart3
   - Fart5
-  serializedData: 41 Experimentation,10;220 Assurance,10;56 Vow,10;21 Offense,10;61
-    March,10;85 Rend,10;7 Dine,10;8 Titan,10;Others,10
+  serializedData: 41 Experimentation,8;220 Assurance,8;56 Vow,10;21 Offense,10;61
+    March,10;85 Rend,8;7 Dine,8;8 Titan,15;Others,10

@@ -16,8 +16,8 @@ MonoBehaviour:
   IncompatibleBundles: []
   scrapType: 0
   itemName: Comfort Cookie
-  minValue: 16
-  maxValue: 36
+  minValue: 27
+  maxValue: 60
   twoHanded: 0
   HandedAnimation: 0
   requiresBattery: 0
@@ -33,7 +33,7 @@ MonoBehaviour:
   meshVariants: []
   materialVariants: []
   useGlobalSpawnWeight: 0
-  globalSpawnWeight: 10
+  globalSpawnWeight: 100
   _perPlanetSpawnWeight:
   - SceneName: 41 Experimentation
     SpawnWeight: 40

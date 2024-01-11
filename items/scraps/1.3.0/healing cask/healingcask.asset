@@ -16,43 +16,43 @@ MonoBehaviour:
   IncompatibleBundles: []
   scrapType: 0
   itemName: Healing Cask
-  minValue: 0
-  maxValue: 0
+  minValue: 58
+  maxValue: 88
   twoHanded: 0
   HandedAnimation: 0
   requiresBattery: 0
   isConductiveMetal: 0
-  weight: 0
+  weight: 10
   prefab: {fileID: 6336784632017514335, guid: 8d62a4d4bdee51e4c99253c1aeffd209, type: 3}
-  grabSFX: 
-  dropSFX: 
+  grabSFX: GrabShotgunShell
+  dropSFX: DropPlastic2
   verticalOffset: 0
   restingRotation: {x: 0, y: 0, z: 0}
-  positionOffset: {x: 0, y: 0, z: 0}
-  rotationOffset: {x: 0, y: 0, z: 0}
+  positionOffset: {x: -0.1, y: 0.1, z: -0.1}
+  rotationOffset: {x: 0, y: 0, z: -90}
   meshVariants: []
   materialVariants: []
-  useGlobalSpawnWeight: 1
+  useGlobalSpawnWeight: 0
   globalSpawnWeight: 100
   _perPlanetSpawnWeight:
   - SceneName: 41 Experimentation
-    SpawnWeight: 10
+    SpawnWeight: 25
   - SceneName: 220 Assurance
-    SpawnWeight: 10
+    SpawnWeight: 25
   - SceneName: 56 Vow
-    SpawnWeight: 10
+    SpawnWeight: 20
   - SceneName: 21 Offense
-    SpawnWeight: 10
+    SpawnWeight: 20
   - SceneName: 61 March
-    SpawnWeight: 10
+    SpawnWeight: 20
   - SceneName: 85 Rend
-    SpawnWeight: 10
+    SpawnWeight: 15
   - SceneName: 7 Dine
-    SpawnWeight: 10
+    SpawnWeight: 15
   - SceneName: 8 Titan
-    SpawnWeight: 10
+    SpawnWeight: 15
   - SceneName: Others
-    SpawnWeight: 10
+    SpawnWeight: 20
   shovelHitForce: 1
   isHoldingButton: 0
   shovelAudio: {fileID: 0}
@@ -93,5 +93,5 @@ MonoBehaviour:
   - Fart2
   - Fart3
   - Fart5
-  serializedData: 41 Experimentation,10;220 Assurance,10;56 Vow,10;21 Offense,10;61
-    March,10;85 Rend,10;7 Dine,10;8 Titan,10;Others,10
+  serializedData: 41 Experimentation,25;220 Assurance,25;56 Vow,20;21 Offense,20;61
+    March,20;85 Rend,15;7 Dine,15;8 Titan,15;Others,20

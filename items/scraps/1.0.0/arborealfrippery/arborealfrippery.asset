@@ -16,8 +16,8 @@ MonoBehaviour:
   IncompatibleBundles: []
   scrapType: 0
   itemName: Arboreal Frippery
-  minValue: 50
-  maxValue: 88
+  minValue: 83
+  maxValue: 147
   twoHanded: 0
   HandedAnimation: 0
   requiresBattery: 0

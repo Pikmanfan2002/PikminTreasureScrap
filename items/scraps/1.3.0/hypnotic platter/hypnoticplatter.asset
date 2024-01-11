@@ -16,8 +16,8 @@ MonoBehaviour:
   IncompatibleBundles: []
   scrapType: 0
   itemName: Hypnotic Platter
-  minValue: 30
-  maxValue: 75
+  minValue: 50
+  maxValue: 125
   twoHanded: 0
   HandedAnimation: 0
   requiresBattery: 0
@@ -32,7 +32,7 @@ MonoBehaviour:
   rotationOffset: {x: 160, y: 140, z: 0}
   meshVariants: []
   materialVariants: []
-  useGlobalSpawnWeight: 1
+  useGlobalSpawnWeight: 0
   globalSpawnWeight: 100
   _perPlanetSpawnWeight:
   - SceneName: 41 Experimentation

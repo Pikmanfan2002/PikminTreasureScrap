@@ -16,8 +16,8 @@ MonoBehaviour:
   IncompatibleBundles: []
   scrapType: 0
   itemName: Decorative Goo
-  minValue: 55
-  maxValue: 104
+  minValue: 92
+  maxValue: 173
   twoHanded: 0
   HandedAnimation: 0
   requiresBattery: 0
@@ -33,7 +33,7 @@ MonoBehaviour:
   meshVariants: []
   materialVariants: []
   useGlobalSpawnWeight: 0
-  globalSpawnWeight: 10
+  globalSpawnWeight: 100
   _perPlanetSpawnWeight:
   - SceneName: 41 Experimentation
     SpawnWeight: 12

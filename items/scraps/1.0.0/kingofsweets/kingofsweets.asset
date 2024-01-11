@@ -16,8 +16,8 @@ MonoBehaviour:
   IncompatibleBundles: []
   scrapType: 0
   itemName: King of Sweets
-  minValue: 24
-  maxValue: 42
+  minValue: 40
+  maxValue: 70
   twoHanded: 0
   HandedAnimation: 0
   requiresBattery: 0

@@ -20,12 +20,12 @@ MonoBehaviour:
   IsLocked: 0
   OrbitPrefabName: Moon1
   SpawnEnemiesAndScrap: 1
-  PlanetName: Test Moon
+  PlanetName: Yippee
   MainPrefab: {fileID: 2016254630306542993, guid: 718fcf9bfba85b64bb28a71f9355886e, type: 3}
   PlanetDescription: Test.
   PlanetVideo: {fileID: 0}
-  RiskLevel: lol
-  TimeToArrive: 0.08
+  RiskLevel: hehe
+  TimeToArrive: 1
   DaySpeedMultiplier: 1
   PlanetHasTime: 1
   _RandomWeatherTypes:
@@ -47,7 +47,7 @@ MonoBehaviour:
   - Weather: 5
     WeatherVariable1: 1
     WeatherVariable2: 0
-  OverwriteWeather: 1
+  OverwriteWeather: 0
   OverwriteWeatherType: -1
   RouteWord: doomsday
   RoutePrice: 0
@@ -58,31 +58,15 @@ MonoBehaviour:
   - ID: 0
     Rarity: 300
   - ID: 1
-    Rarity: 0
+    Rarity: 1
   _SpawnableScrap:
   - ObjectName: doomsdayapparatus
     SpawnWeight: 20
-  MinScrap: 10
-  MaxScrap: 40
+  MinScrap: 45
+  MaxScrap: 55
   LevelAmbienceClips: Level1TypeAmbience
   MaxEnemyPowerCount: 0
-  _Enemies:
-  - EnemyName: Centipede
-    SpawnWeight: 51
-  - EnemyName: SandSpider
-    SpawnWeight: 58
-  - EnemyName: HoarderBug
-    SpawnWeight: 28
-  - EnemyName: Flowerman
-    SpawnWeight: 13
-  - EnemyName: Crawler
-    SpawnWeight: 16
-  - EnemyName: Blob
-    SpawnWeight: 31
-  - EnemyName: DressGirl
-    SpawnWeight: 1
-  - EnemyName: Puffer
-    SpawnWeight: 28
+  _Enemies: []
   EnemySpawnChanceThroughoutDay:
     serializedVersion: 2
     m_Curve:
@@ -436,22 +420,10 @@ MonoBehaviour:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-  MaxOutsideEnemyPowerCount: 8
-  MaxDaytimeEnemyPowerCount: 5
-  _OutsideEnemies:
-  - EnemyName: MouthDog
-    SpawnWeight: 75
-  - EnemyName: ForestGiant
-    SpawnWeight: 0
-  - EnemyName: SandWorm
-    SpawnWeight: 56
-  _DaytimeEnemies:
-  - EnemyName: RedLocustBees
-    SpawnWeight: 22
-  - EnemyName: Doublewing
-    SpawnWeight: 74
-  - EnemyName: DocileLocustBees
-    SpawnWeight: 52
+  MaxOutsideEnemyPowerCount: 0
+  MaxDaytimeEnemyPowerCount: 0
+  _OutsideEnemies: []
+  _DaytimeEnemies: []
   OutsideEnemySpawnChanceThroughDay:
     serializedVersion: 2
     m_Curve:
@@ -530,10 +502,10 @@ MonoBehaviour:
   DaytimeEnemiesProbabilityRange: 5
   LevelIncludesSnowFootprints: 0
   serializedRandomWeatherTypes: -1,0,0;1,0,0;2,1,0;3,1,0;4,-4,5;5,1,0
-  serializedDungeonFlowTypes: 0,300;1,0
+  serializedDungeonFlowTypes: 0,300;1,1
   serializedSpawnableScrap: doomsdayapparatus,20
-  serializedEnemies: Centipede,51;SandSpider,58;HoarderBug,28;Flowerman,13;Crawler,16;Blob,31;DressGirl,1;Puffer,28
-  serializedOutsideEnemies: MouthDog,75;ForestGiant,0;SandWorm,56
-  serializedDaytimeEnemies: RedLocustBees,22;Doublewing,74;DocileLocustBees,52
+  serializedEnemies: 
+  serializedOutsideEnemies: 
+  serializedDaytimeEnemies: 
   serializedSpawnableMapObjects: Landmine|False|{"curve":{"serializedVersion":"2","m_Curve":[{"serializedVersion":"3","time":-0.003082275390625,"value":0.0,"inSlope":0.23179344832897187,"outSlope":0.23179344832897187,"tangentMode":0,"weightedMode":2,"inWeight":0.0,"outWeight":0.27936428785324099},{"serializedVersion":"3","time":0.8171924352645874,"value":1.7483322620391846,"inSlope":7.064207077026367,"outSlope":7.064207077026367,"tangentMode":0,"weightedMode":3,"inWeight":0.2631833553314209,"outWeight":0.6898177862167358},{"serializedVersion":"3","time":1.0002186298370362,"value":11.760997772216797,"inSlope":968.80810546875,"outSlope":968.80810546875,"tangentMode":0,"weightedMode":3,"inWeight":0.029036391526460649,"outWeight":0.0}],"m_PreInfinity":2,"m_PostInfinity":2,"m_RotationOrder":4}};TurretContainer|True|{"curve":{"serializedVersion":"2","m_Curve":[{"serializedVersion":"3","time":0.0,"value":0.0,"inSlope":0.354617178440094,"outSlope":0.354617178440094,"tangentMode":0,"weightedMode":2,"inWeight":0.0,"outWeight":0.0},{"serializedVersion":"3","time":0.9190289974212647,"value":1.0005745887756348,"inSlope":Infinity,"outSlope":1.7338485717773438,"tangentMode":0,"weightedMode":3,"inWeight":0.0,"outWeight":0.6534967422485352},{"serializedVersion":"3","time":1.0038425922393799,"value":7.198680877685547,"inSlope":529.4945068359375,"outSlope":529.4945068359375,"tangentMode":0,"weightedMode":3,"inWeight":0.14589552581310273,"outWeight":0.0}],"m_PreInfinity":2,"m_PostInfinity":2,"m_RotationOrder":4}}
   serializedSpawnableOutsideObjects: LargeRock1|{"curve":{"serializedVersion":"2","m_Curve":[{"serializedVersion":"3","time":0.0,"value":0.0,"inSlope":0.0,"outSlope":0.0,"tangentMode":0,"weightedMode":0,"inWeight":0.0,"outWeight":0.0},{"serializedVersion":"3","time":0.7571572661399841,"value":0.6448163986206055,"inSlope":2.974250078201294,"outSlope":2.974250078201294,"tangentMode":0,"weightedMode":0,"inWeight":0.3333333432674408,"outWeight":0.3333333432674408},{"serializedVersion":"3","time":0.9995536804199219,"value":5.883961200714111,"inSlope":65.30631256103516,"outSlope":65.30631256103516,"tangentMode":0,"weightedMode":0,"inWeight":0.12097536772489548,"outWeight":0.0}],"m_PreInfinity":2,"m_PostInfinity":2,"m_RotationOrder":4}};LargeRock2|{"curve":{"serializedVersion":"2","m_Curve":[{"serializedVersion":"3","time":0.0,"value":0.0,"inSlope":0.0,"outSlope":0.0,"tangentMode":0,"weightedMode":0,"inWeight":0.0,"outWeight":0.0},{"serializedVersion":"3","time":0.7562879920005798,"value":1.2308543920516968,"inSlope":5.111926555633545,"outSlope":5.111926555633545,"tangentMode":0,"weightedMode":0,"inWeight":0.3333333432674408,"outWeight":0.21955738961696626},{"serializedVersion":"3","time":1.0010795593261719,"value":7.59307336807251,"inSlope":92.0470199584961,"outSlope":92.0470199584961,"tangentMode":0,"weightedMode":0,"inWeight":0.05033162236213684,"outWeight":0.0}],"m_PreInfinity":2,"m_PostInfinity":2,"m_RotationOrder":4}};LargeRock3|{"curve":{"serializedVersion":"2","m_Curve":[{"serializedVersion":"3","time":0.0,"value":0.0,"inSlope":0.0,"outSlope":0.0,"tangentMode":0,"weightedMode":0,"inWeight":0.0,"outWeight":0.0},{"serializedVersion":"3","time":0.9964686632156372,"value":2.0009398460388185,"inSlope":6.82940673828125,"outSlope":6.82940673828125,"tangentMode":0,"weightedMode":0,"inWeight":0.06891261041164398,"outWeight":0.0}],"m_PreInfinity":2,"m_PostInfinity":2,"m_RotationOrder":4}};LargeRock4|{"curve":{"serializedVersion":"2","m_Curve":[{"serializedVersion":"3","time":0.0,"value":0.0,"inSlope":0.0,"outSlope":0.0,"tangentMode":0,"weightedMode":0,"inWeight":0.0,"outWeight":0.0},{"serializedVersion":"3","time":0.9635604619979858,"value":2.153383493423462,"inSlope":6.251225471496582,"outSlope":6.251225471496582,"tangentMode":0,"weightedMode":0,"inWeight":0.07428120821714401,"outWeight":0.3333333432674408},{"serializedVersion":"3","time":0.9995394349098206,"value":5.0,"inSlope":15.746581077575684,"outSlope":15.746581077575684,"tangentMode":0,"weightedMode":0,"inWeight":0.06317413598299027,"outWeight":0.0}],"m_PreInfinity":2,"m_PostInfinity":2,"m_RotationOrder":4}};TreeLeafless1|{"curve":{"serializedVersion":"2","m_Curve":[{"serializedVersion":"3","time":0.0,"value":0.0,"inSlope":1.6912956237792969,"outSlope":1.6912956237792969,"tangentMode":0,"weightedMode":2,"inWeight":0.0,"outWeight":0.27726083993911745},{"serializedVersion":"3","time":0.776531994342804,"value":6.162014007568359,"inSlope":30.075166702270509,"outSlope":30.075166702270509,"tangentMode":0,"weightedMode":3,"inWeight":0.15920747816562653,"outWeight":0.5323987007141113},{"serializedVersion":"3","time":1.0002281665802003,"value":38.093849182128909,"inSlope":1448.839111328125,"outSlope":1448.839111328125,"tangentMode":0,"weightedMode":3,"inWeight":0.0620061457157135,"outWeight":0.0}],"m_PreInfinity":2,"m_PostInfinity":2,"m_RotationOrder":4}};SmallGreyRocks1|{"curve":{"serializedVersion":"2","m_Curve":[{"serializedVersion":"3","time":0.0,"value":0.0,"inSlope":1.6912956237792969,"outSlope":1.6912956237792969,"tangentMode":0,"weightedMode":2,"inWeight":0.0,"outWeight":0.27726083993911745},{"serializedVersion":"3","time":0.802714467048645,"value":1.5478605031967164,"inSlope":9.096116065979004,"outSlope":9.096116065979004,"tangentMode":0,"weightedMode":3,"inWeight":0.15920747816562653,"outWeight":0.58766108751297},{"serializedVersion":"3","time":1.0002281665802003,"value":14.584033966064454,"inSlope":1244.9173583984375,"outSlope":1244.9173583984375,"tangentMode":0,"weightedMode":3,"inWeight":0.054620321840047839,"outWeight":0.0}],"m_PreInfinity":2,"m_PostInfinity":2,"m_RotationOrder":4}};GiantPumpkin|{"curve":{"serializedVersion":"2","m_Curve":[{"serializedVersion":"3","time":0.0,"value":0.0,"inSlope":1.6912956237792969,"outSlope":1.6912956237792969,"tangentMode":0,"weightedMode":2,"inWeight":0.0,"outWeight":0.27726083993911745},{"serializedVersion":"3","time":0.8832725882530212,"value":0.5284063816070557,"inSlope":3.2962090969085695,"outSlope":29.38977813720703,"tangentMode":0,"weightedMode":3,"inWeight":0.19772815704345704,"outWeight":0.8989489078521729},{"serializedVersion":"3","time":0.972209095954895,"value":6.7684478759765629,"inSlope":140.27394104003907,"outSlope":140.27394104003907,"tangentMode":0,"weightedMode":3,"inWeight":0.39466607570648196,"outWeight":0.47049039602279665},{"serializedVersion":"3","time":1.0002281665802003,"value":23.0,"inSlope":579.3037109375,"outSlope":14.8782377243042,"tangentMode":0,"weightedMode":3,"inWeight":0.648808479309082,"outWeight":0.0}],"m_PreInfinity":2,"m_PostInfinity":2,"m_RotationOrder":4}}

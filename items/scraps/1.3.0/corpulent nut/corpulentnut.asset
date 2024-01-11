@@ -16,41 +16,41 @@ MonoBehaviour:
   IncompatibleBundles: []
   scrapType: 0
   itemName: Corpulent Nut
-  minValue: 0
-  maxValue: 0
+  minValue: 93
+  maxValue: 162
   twoHanded: 0
   HandedAnimation: 0
   requiresBattery: 0
   isConductiveMetal: 0
-  weight: 0
-  prefab: {fileID: 6743101080072597397, guid: 2baf65e7c90736147a40ae190f7def97, type: 3}
-  grabSFX: 
-  dropSFX: 
+  weight: 20
+  prefab: {fileID: 8477456502363806147, guid: 2baf65e7c90736147a40ae190f7def97, type: 3}
+  grabSFX: GrabFlashlight
+  dropSFX: DropCardboardBox
   verticalOffset: 0
   restingRotation: {x: 0, y: 0, z: 0}
-  positionOffset: {x: 0, y: 0, z: 0}
+  positionOffset: {x: 0, y: 0, z: -0.125}
   rotationOffset: {x: 0, y: 0, z: 0}
   meshVariants: []
   materialVariants: []
-  useGlobalSpawnWeight: 1
+  useGlobalSpawnWeight: 0
   globalSpawnWeight: 100
   _perPlanetSpawnWeight:
   - SceneName: 41 Experimentation
-    SpawnWeight: 10
+    SpawnWeight: 5
   - SceneName: 220 Assurance
-    SpawnWeight: 10
+    SpawnWeight: 5
   - SceneName: 56 Vow
-    SpawnWeight: 10
+    SpawnWeight: 17
   - SceneName: 21 Offense
-    SpawnWeight: 10
+    SpawnWeight: 17
   - SceneName: 61 March
-    SpawnWeight: 10
+    SpawnWeight: 17
   - SceneName: 85 Rend
-    SpawnWeight: 10
+    SpawnWeight: 8
   - SceneName: 7 Dine
-    SpawnWeight: 10
+    SpawnWeight: 8
   - SceneName: 8 Titan
-    SpawnWeight: 10
+    SpawnWeight: 8
   - SceneName: Others
     SpawnWeight: 10
   shovelHitForce: 1
@@ -93,5 +93,5 @@ MonoBehaviour:
   - Fart2
   - Fart3
   - Fart5
-  serializedData: 41 Experimentation,10;220 Assurance,10;56 Vow,10;21 Offense,10;61
-    March,10;85 Rend,10;7 Dine,10;8 Titan,10;Others,10
+  serializedData: 41 Experimentation,5;220 Assurance,5;56 Vow,17;21 Offense,17;61
+    March,17;85 Rend,8;7 Dine,8;8 Titan,8;Others,10

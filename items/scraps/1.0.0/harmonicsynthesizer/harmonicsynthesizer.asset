@@ -16,8 +16,8 @@ MonoBehaviour:
   IncompatibleBundles: []
   scrapType: 0
   itemName: Harmonic Synthesizer
-  minValue: 65
-  maxValue: 94
+  minValue: 108
+  maxValue: 157
   twoHanded: 0
   HandedAnimation: 0
   requiresBattery: 0

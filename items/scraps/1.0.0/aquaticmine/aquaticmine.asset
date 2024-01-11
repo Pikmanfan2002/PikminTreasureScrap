@@ -16,8 +16,8 @@ MonoBehaviour:
   IncompatibleBundles: []
   scrapType: 0
   itemName: Aquatic Mine
-  minValue: 39
-  maxValue: 63
+  minValue: 65
+  maxValue: 105
   twoHanded: 0
   HandedAnimation: 0
   requiresBattery: 0
