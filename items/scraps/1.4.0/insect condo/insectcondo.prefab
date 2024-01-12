@@ -175,7 +175,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f65d068e5744314438fca436446fe78a, type: 3}
       propertyPath: m_Name
-      value: condo
+      value: insectcondo
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f65d068e5744314438fca436446fe78a, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f65d068e5744314438fca436446fe78a, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f65d068e5744314438fca436446fe78a, type: 3}
+      propertyPath: m_TagString
+      value: PhysicsProp
       objectReference: {fileID: 0}
     - target: {fileID: 2795594147669560145, guid: f65d068e5744314438fca436446fe78a, type: 3}
       propertyPath: m_Materials.Array.data[0]

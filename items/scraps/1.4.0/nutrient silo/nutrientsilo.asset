@@ -16,23 +16,23 @@ MonoBehaviour:
   IncompatibleBundles: []
   scrapType: 0
   itemName: Nutrient Silo
-  minValue: 0
-  maxValue: 0
+  minValue: 120
+  maxValue: 200
   twoHanded: 0
   HandedAnimation: 0
   requiresBattery: 0
   isConductiveMetal: 0
-  weight: 0
+  weight: 16
   prefab: {fileID: 3506129997656562096, guid: a33d17b5f9c0df24691a909d25aab12b, type: 3}
-  grabSFX: 
-  dropSFX: 
+  grabSFX: PickUpPlasticBin
+  dropSFX: DropPlasticLarge
   verticalOffset: 0
   restingRotation: {x: 0, y: 0, z: 0}
-  positionOffset: {x: 0, y: 0, z: 0}
-  rotationOffset: {x: 0, y: 0, z: 0}
+  positionOffset: {x: -0.2, y: 0.2, z: -0.2}
+  rotationOffset: {x: 0, y: 0, z: -90}
   meshVariants: []
   materialVariants: []
-  useGlobalSpawnWeight: 1
+  useGlobalSpawnWeight: 0
   globalSpawnWeight: 10
   _perPlanetSpawnWeight:
   - SceneName: 41 Experimentation

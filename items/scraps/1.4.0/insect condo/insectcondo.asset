@@ -16,43 +16,43 @@ MonoBehaviour:
   IncompatibleBundles: []
   scrapType: 0
   itemName: Insect Condo
-  minValue: 0
-  maxValue: 0
+  minValue: 100
+  maxValue: 255
   twoHanded: 0
   HandedAnimation: 0
   requiresBattery: 0
   isConductiveMetal: 0
-  weight: 0
+  weight: 11
   prefab: {fileID: 4538201223951288817, guid: 61754b8ae412cf34e9037e917649ce7d, type: 3}
-  grabSFX: 
-  dropSFX: 
+  grabSFX: GrabCardboardBox
+  dropSFX: DropCardboardBox
   verticalOffset: 0
   restingRotation: {x: 0, y: 0, z: 0}
-  positionOffset: {x: 0, y: 0, z: 0}
-  rotationOffset: {x: 0, y: 0, z: 0}
+  positionOffset: {x: -0.35, y: 0.25, z: -0.3}
+  rotationOffset: {x: 0, y: 0, z: -90}
   meshVariants: []
   materialVariants: []
-  useGlobalSpawnWeight: 1
+  useGlobalSpawnWeight: 0
   globalSpawnWeight: 10
   _perPlanetSpawnWeight:
   - SceneName: 41 Experimentation
-    SpawnWeight: 10
+    SpawnWeight: 5
   - SceneName: 220 Assurance
-    SpawnWeight: 10
+    SpawnWeight: 5
   - SceneName: 56 Vow
-    SpawnWeight: 10
+    SpawnWeight: 25
   - SceneName: 21 Offense
-    SpawnWeight: 10
+    SpawnWeight: 5
   - SceneName: 61 March
-    SpawnWeight: 10
+    SpawnWeight: 25
   - SceneName: 85 Rend
-    SpawnWeight: 10
+    SpawnWeight: 20
   - SceneName: 7 Dine
-    SpawnWeight: 10
+    SpawnWeight: 20
   - SceneName: 8 Titan
-    SpawnWeight: 10
+    SpawnWeight: 25
   - SceneName: Others
-    SpawnWeight: 10
+    SpawnWeight: 20
   shovelHitForce: 1
   isHoldingButton: 0
   shovelAudio: {fileID: 0}
@@ -93,5 +93,5 @@ MonoBehaviour:
   - Fart2
   - Fart3
   - Fart5
-  serializedData: 41 Experimentation,10;220 Assurance,10;56 Vow,10;21 Offense,10;61
-    March,10;85 Rend,10;7 Dine,10;8 Titan,10;Others,10
+  serializedData: 41 Experimentation,5;220 Assurance,5;56 Vow,25;21 Offense,5;61
+    March,25;85 Rend,20;7 Dine,20;8 Titan,25;Others,20

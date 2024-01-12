@@ -16,23 +16,23 @@ MonoBehaviour:
   IncompatibleBundles: []
   scrapType: 0
   itemName: Vorpal Platter
-  minValue: 0
-  maxValue: 0
+  minValue: 80
+  maxValue: 140
   twoHanded: 0
   HandedAnimation: 0
   requiresBattery: 0
-  isConductiveMetal: 0
-  weight: 0
+  isConductiveMetal: 1
+  weight: 15
   prefab: {fileID: 8306445730325171390, guid: 490db2b30ba9b014ba53c2938392adbc, type: 3}
   grabSFX: 
-  dropSFX: 
+  dropSFX: DropThinMetal
   verticalOffset: 0
   restingRotation: {x: 0, y: 0, z: 0}
-  positionOffset: {x: 0, y: 0, z: 0}
-  rotationOffset: {x: 0, y: 0, z: 0}
+  positionOffset: {x: -0.1, y: 0, z: -0.3}
+  rotationOffset: {x: 0, y: 0, z: -90}
   meshVariants: []
   materialVariants: []
-  useGlobalSpawnWeight: 1
+  useGlobalSpawnWeight: 0
   globalSpawnWeight: 10
   _perPlanetSpawnWeight:
   - SceneName: 41 Experimentation
@@ -40,19 +40,19 @@ MonoBehaviour:
   - SceneName: 220 Assurance
     SpawnWeight: 10
   - SceneName: 56 Vow
-    SpawnWeight: 10
+    SpawnWeight: 20
   - SceneName: 21 Offense
-    SpawnWeight: 10
+    SpawnWeight: 20
   - SceneName: 61 March
-    SpawnWeight: 10
+    SpawnWeight: 25
   - SceneName: 85 Rend
-    SpawnWeight: 10
+    SpawnWeight: 5
   - SceneName: 7 Dine
-    SpawnWeight: 10
+    SpawnWeight: 5
   - SceneName: 8 Titan
-    SpawnWeight: 10
+    SpawnWeight: 15
   - SceneName: Others
-    SpawnWeight: 10
+    SpawnWeight: 15
   shovelHitForce: 1
   isHoldingButton: 0
   shovelAudio: {fileID: 0}
@@ -93,5 +93,5 @@ MonoBehaviour:
   - Fart2
   - Fart3
   - Fart5
-  serializedData: 41 Experimentation,10;220 Assurance,10;56 Vow,10;21 Offense,10;61
-    March,10;85 Rend,10;7 Dine,10;8 Titan,10;Others,10
+  serializedData: 41 Experimentation,10;220 Assurance,10;56 Vow,20;21 Offense,20;61
+    March,25;85 Rend,5;7 Dine,5;8 Titan,15;Others,15
