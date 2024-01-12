@@ -32,8 +32,8 @@ MonoBehaviour:
   rotationOffset: {x: 0, y: -90, z: 0}
   meshVariants: []
   materialVariants: []
-  useGlobalSpawnWeight: 0
-  globalSpawnWeight: 10
+  useGlobalSpawnWeight: 1
+  globalSpawnWeight: 0
   _perPlanetSpawnWeight:
   - SceneName: 41 Experimentation
     SpawnWeight: 55

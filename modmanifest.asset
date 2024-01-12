@@ -20,7 +20,7 @@ MonoBehaviour:
     Revision: 0
   serializedVersion: 1.4.0.0
   author: Pikmanfan2002
-  description: Adds 17 treasures from Pikmin 2 into Lethal Company!
+  description: Adds 33 treasures from Pikmin 2 into Lethal Company!
   scraps:
   - {fileID: 11400000, guid: ec595f55f745c51458c777a455a2b74d, type: 2}
   - {fileID: 11400000, guid: 476777416c799b844ae2e043f8a7f1e9, type: 2}
@@ -40,7 +40,21 @@ MonoBehaviour:
   - {fileID: 11400000, guid: fd180c91bc9572e479beabca214c9e4b, type: 2}
   - {fileID: 11400000, guid: 3af87dd112cf42d43a9172fe16608704, type: 2}
   - {fileID: 11400000, guid: e4a8e23f44deead40acdf6b998ad908a, type: 2}
+  - {fileID: 11400000, guid: a57974a6c94990244bfd86fc76835558, type: 2}
+  - {fileID: 11400000, guid: abcb9e8642848fc41973cb1c8f09caac, type: 2}
   - {fileID: 11400000, guid: 5d2ba606372e868499015cc4f5ab04b5, type: 2}
+  - {fileID: 11400000, guid: 29537930e082dea4da40d787dcf45fdc, type: 2}
+  - {fileID: 11400000, guid: d1741c541fb21154d8af70804bdc3b2b, type: 2}
+  - {fileID: 11400000, guid: 085570dddc45ba74fa944a456fbf54b4, type: 2}
+  - {fileID: 11400000, guid: 161a119dc040aef4b99d10d592153474, type: 2}
+  - {fileID: 11400000, guid: 04f848c4215bbeb49b99154435d9834b, type: 2}
+  - {fileID: 11400000, guid: d0101ee3cc573064896f8db6ab340d86, type: 2}
+  - {fileID: 11400000, guid: d8dd9e3432a50e2418add6425d55a840, type: 2}
+  - {fileID: 11400000, guid: 603a607a4041465468c16144f504781e, type: 2}
+  - {fileID: 11400000, guid: 42b5b4c049cf72f4982c391e648e371b, type: 2}
+  - {fileID: 11400000, guid: 27495650ebab29c44944daf7722a347b, type: 2}
+  - {fileID: 11400000, guid: 73d1f340f72f3db47bd0c47e51771ef1, type: 2}
+  - {fileID: 11400000, guid: 453b8bd350dfa6849abfffbb854249ac, type: 2}
   moons:
   - {fileID: 11400000, guid: 66d59ba8b9f85194c8472e25a216771d, type: 2}
   assetBank: {fileID: 11400000, guid: 1500ac4fef158a04888f88a2bc27d624, type: 2}
