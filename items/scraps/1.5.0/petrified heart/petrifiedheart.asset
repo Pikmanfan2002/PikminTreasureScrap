@@ -16,13 +16,13 @@ MonoBehaviour:
   IncompatibleBundles: []
   scrapType: 0
   itemName: Petrified Heart
-  minValue: 0
-  maxValue: 0
+  minValue: 150
+  maxValue: 188
   twoHanded: 0
   HandedAnimation: 0
   requiresBattery: 0
   isConductiveMetal: 0
-  weight: 0
+  weight: 11
   prefab: {fileID: 8478928230255359135, guid: 8ff380d7000f1be419cf486f3fb034b5, type: 3}
   grabSFX: GrabBottle
   dropSFX: DropBottleSingle
@@ -32,29 +32,29 @@ MonoBehaviour:
   rotationOffset: {x: -90, y: 0, z: -90}
   meshVariants: []
   materialVariants: []
-  useGlobalSpawnWeight: 1
+  useGlobalSpawnWeight: 0
   globalSpawnWeight: 100
   _perPlanetSpawnWeight:
   - SceneName: 41 Experimentation
-    SpawnWeight: 10
+    SpawnWeight: 0
   - SceneName: 220 Assurance
-    SpawnWeight: 10
+    SpawnWeight: 0
   - SceneName: 56 Vow
-    SpawnWeight: 10
+    SpawnWeight: 0
   - SceneName: 21 Offense
-    SpawnWeight: 10
+    SpawnWeight: 0
   - SceneName: 61 March
-    SpawnWeight: 10
+    SpawnWeight: 0
   - SceneName: 85 Rend
-    SpawnWeight: 10
+    SpawnWeight: 35
   - SceneName: 7 Dine
-    SpawnWeight: 10
+    SpawnWeight: 35
   - SceneName: 8 Titan
-    SpawnWeight: 10
+    SpawnWeight: 25
   - SceneName: Others
     SpawnWeight: 10
+  playetSpawnBlacklist: []
   shovelHitForce: 1
-  isHoldingButton: 0
   shovelAudio: {fileID: 0}
   reelUp: ShovelReelUp
   swing: ShovelSwing
@@ -93,5 +93,5 @@ MonoBehaviour:
   - Fart2
   - Fart3
   - Fart5
-  serializedData: 41 Experimentation,10;220 Assurance,10;56 Vow,10;21 Offense,10;61
-    March,10;85 Rend,10;7 Dine,10;8 Titan,10;Others,10
+  serializedData: 41 Experimentation,0;220 Assurance,0;56 Vow,0;21 Offense,0;61 March,0;85
+    Rend,35;7 Dine,35;8 Titan,25;Others,10
