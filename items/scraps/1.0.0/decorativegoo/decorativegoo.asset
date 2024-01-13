@@ -21,7 +21,7 @@ MonoBehaviour:
   twoHanded: 0
   HandedAnimation: 0
   requiresBattery: 0
-  isConductiveMetal: 1
+  isConductiveMetal: 0
   weight: 20
   prefab: {fileID: 3115070680027989527, guid: cb261632e47d1a34782c583dd6e4c526, type: 3}
   grabSFX: BeeHiveGrab
@@ -36,21 +36,21 @@ MonoBehaviour:
   globalSpawnWeight: 0
   _perPlanetSpawnWeight:
   - SceneName: 41 Experimentation
-    SpawnWeight: 24
+    SpawnWeight: 10
   - SceneName: 220 Assurance
-    SpawnWeight: 24
+    SpawnWeight: 10
   - SceneName: 56 Vow
-    SpawnWeight: 32
+    SpawnWeight: 16
   - SceneName: 21 Offense
-    SpawnWeight: 32
+    SpawnWeight: 16
   - SceneName: 61 March
-    SpawnWeight: 32
+    SpawnWeight: 16
   - SceneName: 85 Rend
-    SpawnWeight: 48
+    SpawnWeight: 40
   - SceneName: 7 Dine
-    SpawnWeight: 48
+    SpawnWeight: 40
   - SceneName: 8 Titan
-    SpawnWeight: 48
+    SpawnWeight: 40
   - SceneName: Others
     SpawnWeight: 40
   shovelHitForce: 1
@@ -93,5 +93,5 @@ MonoBehaviour:
   - Fart2
   - Fart3
   - Fart5
-  serializedData: 41 Experimentation,24;220 Assurance,24;56 Vow,32;21 Offense,32;61
-    March,32;85 Rend,48;7 Dine,48;8 Titan,48;Others,40
+  serializedData: 41 Experimentation,10;220 Assurance,10;56 Vow,16;21 Offense,16;61
+    March,16;85 Rend,40;7 Dine,40;8 Titan,40;Others,40

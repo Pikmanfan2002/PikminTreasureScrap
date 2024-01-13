@@ -55,5 +55,13 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 27495650ebab29c44944daf7722a347b, type: 2}
   - {fileID: 11400000, guid: 73d1f340f72f3db47bd0c47e51771ef1, type: 2}
   - {fileID: 11400000, guid: 453b8bd350dfa6849abfffbb854249ac, type: 2}
-  moons: []
+  - {fileID: 11400000, guid: 7343694cd8748644582bf87188976e71, type: 2}
+  - {fileID: 11400000, guid: 7a8584f4e3d1fc449ac6d0ee31d6dfa8, type: 2}
+  - {fileID: 11400000, guid: d6d90e1d3f1545040a592c944d93b01b, type: 2}
+  - {fileID: 11400000, guid: 4e98efa2709e8a94c9d17e6b057d81d8, type: 2}
+  - {fileID: 11400000, guid: 66321067e64b3fe4bb6e50f8da50df94, type: 2}
+  - {fileID: 11400000, guid: a1c47590bef63c445ac43c30681d40a4, type: 2}
+  - {fileID: 11400000, guid: 178f09654780dfd45892abb07f56b72c, type: 2}
+  moons:
+  - {fileID: 11400000, guid: 66d59ba8b9f85194c8472e25a216771d, type: 2}
   assetBank: {fileID: 11400000, guid: 1500ac4fef158a04888f88a2bc27d624, type: 2}

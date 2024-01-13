@@ -24,16 +24,16 @@ MonoBehaviour:
   isConductiveMetal: 0
   weight: 0
   prefab: {fileID: 8478928230255359135, guid: 8ff380d7000f1be419cf486f3fb034b5, type: 3}
-  grabSFX: 
-  dropSFX: 
+  grabSFX: GrabBottle
+  dropSFX: DropBottleSingle
   verticalOffset: 0
   restingRotation: {x: 0, y: 0, z: 0}
-  positionOffset: {x: 0, y: 0, z: 0}
-  rotationOffset: {x: 0, y: 0, z: 0}
+  positionOffset: {x: -0.1, y: 0, z: -0.25}
+  rotationOffset: {x: -90, y: 0, z: -90}
   meshVariants: []
   materialVariants: []
   useGlobalSpawnWeight: 1
-  globalSpawnWeight: 10
+  globalSpawnWeight: 100
   _perPlanetSpawnWeight:
   - SceneName: 41 Experimentation
     SpawnWeight: 10
