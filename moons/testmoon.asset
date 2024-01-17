@@ -21,7 +21,7 @@ MonoBehaviour:
   OrbitPrefabName: Moon1
   SpawnEnemiesAndScrap: 1
   PlanetName: Yippee
-  MainPrefab: {fileID: 2016254630306542993, guid: 718fcf9bfba85b64bb28a71f9355886e, type: 3}
+  MainPrefab: {fileID: 2016254630306542993, guid: 02fe3a1f5bf3f524e93e98461f4b9bc6, type: 3}
   PlanetDescription: Test.
   PlanetVideo: {fileID: 0}
   RiskLevel: hehe
@@ -62,6 +62,7 @@ MonoBehaviour:
   _SpawnableScrap:
   - ObjectName: doomsdayapparatus
     SpawnWeight: 10
+  spawnableScrapBlacklist: []
   MinScrap: 45
   MaxScrap: 55
   LevelAmbienceClips: Level1TypeAmbience

@@ -22,7 +22,7 @@ MonoBehaviour:
   HandedAnimation: 0
   requiresBattery: 0
   isConductiveMetal: 1
-  weight: 20
+  weight: 26
   prefab: {fileID: 8120592397905878361, guid: cb968d61adc77dc489b5095a51e3ed20, type: 3}
   grabSFX: 
   dropSFX: DropMetalObject3

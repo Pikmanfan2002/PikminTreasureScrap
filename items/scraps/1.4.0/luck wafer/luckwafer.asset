@@ -25,7 +25,7 @@ MonoBehaviour:
   weight: 0
   prefab: {fileID: 3135785658901055228, guid: aa878ee2b69f2fa4fbbe9fd61e105d70, type: 3}
   grabSFX: CashRegisterDing
-  dropSFX: DropCardboardBox
+  dropSFX: DropPaper
   verticalOffset: 0
   restingRotation: {x: 0, y: 0, z: 0}
   positionOffset: {x: -0.4, y: 0, z: -0.25}

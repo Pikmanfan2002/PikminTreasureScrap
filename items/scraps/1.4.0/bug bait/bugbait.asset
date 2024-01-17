@@ -25,7 +25,7 @@ MonoBehaviour:
   weight: 7
   prefab: {fileID: 171052706942882738, guid: e0b93031d4ef4a14d8fea540a5e5a7f9, type: 3}
   grabSFX: GrabFlashlight
-  dropSFX: DropFlashlight
+  dropSFX: DropCookie
   verticalOffset: 0
   restingRotation: {x: 0, y: 0, z: 0}
   positionOffset: {x: -0.05, y: 0.05, z: -0.15}
@@ -53,8 +53,8 @@ MonoBehaviour:
     SpawnWeight: 20
   - SceneName: Others
     SpawnWeight: 40
+  playetSpawnBlacklist: []
   shovelHitForce: 1
-  isHoldingButton: 0
   shovelAudio: {fileID: 0}
   reelUp: ShovelReelUp
   swing: ShovelSwing

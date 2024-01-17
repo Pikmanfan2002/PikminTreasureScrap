@@ -15,9 +15,27 @@ MonoBehaviour:
   _audioClips:
   - AudioClipName: VineBoom
     AudioClipPath: 
-    AudioClip: {fileID: 8300000, guid: c118651b8f7b3a841a57b9b2903eeef6, type: 3}
-  _planetPrefabs: []
+    AudioClip: {fileID: 8300000, guid: a54dd7d7ca49cde44b78298b1f12d86f, type: 3}
+  - AudioClipName: DropCookie
+    AudioClipPath: 
+    AudioClip: {fileID: 8300000, guid: bfe1ed0431dadba4aa948ee46bdaa934, type: 3}
+  - AudioClipName: DropCookieHeavy
+    AudioClipPath: 
+    AudioClip: {fileID: 8300000, guid: fa6fd1cccd8042f4caa5cebada8b24d2, type: 3}
+  - AudioClipName: DropPaper
+    AudioClipPath: 
+    AudioClip: {fileID: 8300000, guid: 49fa1cb7a95a81f4c97a44ddc37c1d1e, type: 3}
+  - AudioClipName: GrabLouie
+    AudioClipPath: 
+    AudioClip: {fileID: 8300000, guid: 8b5dd50c471cf304882921e4533431e7, type: 3}
+  - AudioClipName: DropLouie
+    AudioClipPath: 
+    AudioClip: {fileID: 8300000, guid: 461ef6b5517f92842b76d04ff24ed7f6, type: 3}
+  _planetPrefabs:
+  - PlanetPrefabName: testmoon
+    PlanetPrefabPath: 
+    PlanetPrefab: {fileID: 2016254630306542993, guid: 02fe3a1f5bf3f524e93e98461f4b9bc6, type: 3}
   _networkPrefabs: []
-  serializedAudioClips: VineBoom,Assets/Mods/PikminTreasureScrap/sounds/vineboom.mp3
-  serializedPlanetPrefabs: 
+  serializedAudioClips: VineBoom,Assets/Mods/PikminTreasureScrap/sounds/vineboom.mp3;DropCookie,Assets/Mods/PikminTreasureScrap/sounds/lightcookiedrop.wav;DropCookieHeavy,Assets/Mods/PikminTreasureScrap/sounds/heavycookiedrop.wav;DropPaper,Assets/Mods/PikminTreasureScrap/sounds/droppaper.wav;GrabLouie,Assets/Mods/PikminTreasureScrap/sounds/grablouie.wav;DropLouie,Assets/Mods/PikminTreasureScrap/sounds/droplouie.wav
+  serializedPlanetPrefabs: testmoon,Assets/Mods/PikminTreasureScrap/moons/testmoon.prefab
   serializedNetworkPrefabs: 

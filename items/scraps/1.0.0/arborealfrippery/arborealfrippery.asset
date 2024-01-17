@@ -25,7 +25,7 @@ MonoBehaviour:
   weight: 0
   prefab: {fileID: 6978413634150766664, guid: 3e1abb4a5794c8a4e8a21dea81d06e5f, type: 3}
   grabSFX: GrabCardboardBox
-  dropSFX: DropCardboardBox
+  dropSFX: DropPaper
   verticalOffset: 0
   restingRotation: {x: 0, y: 0, z: 0}
   positionOffset: {x: 0, y: 0, z: 0}

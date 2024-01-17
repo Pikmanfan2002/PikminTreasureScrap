@@ -25,7 +25,7 @@ MonoBehaviour:
   weight: 95
   prefab: {fileID: 8538041871526597063, guid: 787fe54d376c3cf48bc25fa50d40967b, type: 3}
   grabSFX: ShovelPickUp
-  dropSFX: ShotgunBlast
+  dropSFX: VineBoom
   verticalOffset: 0
   restingRotation: {x: 0, y: 0, z: 0}
   positionOffset: {x: -0.2, y: -0.2, z: 0}
@@ -53,8 +53,8 @@ MonoBehaviour:
     SpawnWeight: 7
   - SceneName: Others
     SpawnWeight: 3
+  playetSpawnBlacklist: []
   shovelHitForce: 1
-  isHoldingButton: 0
   shovelAudio: {fileID: 0}
   reelUp: ShovelReelUp
   swing: ShovelSwing

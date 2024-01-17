@@ -17,7 +17,7 @@ MonoBehaviour:
   scrapType: 0
   itemName: Quenching Emblem
   minValue: 50
-  maxValue: 125
+  maxValue: 188
   twoHanded: 0
   HandedAnimation: 0
   requiresBattery: 0
@@ -36,25 +36,25 @@ MonoBehaviour:
   globalSpawnWeight: 0
   _perPlanetSpawnWeight:
   - SceneName: 41 Experimentation
-    SpawnWeight: 6
+    SpawnWeight: 3
   - SceneName: 220 Assurance
-    SpawnWeight: 6
+    SpawnWeight: 3
   - SceneName: 56 Vow
-    SpawnWeight: 9
+    SpawnWeight: 3
   - SceneName: 21 Offense
-    SpawnWeight: 9
+    SpawnWeight: 8
   - SceneName: 61 March
-    SpawnWeight: 9
+    SpawnWeight: 8
   - SceneName: 85 Rend
-    SpawnWeight: 11
+    SpawnWeight: 6
   - SceneName: 7 Dine
-    SpawnWeight: 11
+    SpawnWeight: 6
   - SceneName: 8 Titan
-    SpawnWeight: 11
+    SpawnWeight: 6
   - SceneName: Others
-    SpawnWeight: 9
+    SpawnWeight: 6
+  playetSpawnBlacklist: []
   shovelHitForce: 1
-  isHoldingButton: 0
   shovelAudio: {fileID: 0}
   reelUp: ShovelReelUp
   swing: ShovelSwing
@@ -93,5 +93,5 @@ MonoBehaviour:
   - Fart2
   - Fart3
   - Fart5
-  serializedData: 41 Experimentation,6;220 Assurance,6;56 Vow,9;21 Offense,9;61 March,9;85
-    Rend,11;7 Dine,11;8 Titan,11;Others,9
+  serializedData: 41 Experimentation,3;220 Assurance,3;56 Vow,3;21 Offense,8;61 March,8;85
+    Rend,6;7 Dine,6;8 Titan,6;Others,6

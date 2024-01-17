@@ -22,7 +22,7 @@ MonoBehaviour:
   HandedAnimation: 1
   requiresBattery: 0
   isConductiveMetal: 0
-  weight: 75
+  weight: 50
   prefab: {fileID: 4082267830447329273, guid: 45030ca5d0d5e1749a46a69cc4c52e8a, type: 3}
   grabSFX: PickUpPlasticBin
   dropSFX: DropHeavyBox1
@@ -53,8 +53,8 @@ MonoBehaviour:
     SpawnWeight: 24
   - SceneName: Others
     SpawnWeight: 16
+  playetSpawnBlacklist: []
   shovelHitForce: 1
-  isHoldingButton: 0
   shovelAudio: {fileID: 0}
   reelUp: ShovelReelUp
   swing: ShovelSwing

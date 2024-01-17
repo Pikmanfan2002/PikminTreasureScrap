@@ -28,7 +28,7 @@ MonoBehaviour:
   dropSFX: DropCardboardBox
   verticalOffset: 0
   restingRotation: {x: 0, y: 0, z: 0}
-  positionOffset: {x: -0.2, y: 0, z: -0.2}
+  positionOffset: {x: -0.2, y: 0, z: -0.18}
   rotationOffset: {x: -95, y: 0, z: -90}
   meshVariants: []
   materialVariants: []
