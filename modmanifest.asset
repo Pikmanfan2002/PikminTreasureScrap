@@ -73,6 +73,26 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 4cc7ea87511166b419fe294b0958df84, type: 2}
   - {fileID: 11400000, guid: 814f544b291395b48a2b67db90f76fda, type: 2}
   - {fileID: 11400000, guid: b11f3955fcdd560439c81590082753c8, type: 2}
+  - {fileID: 11400000, guid: 0041c10caa99b8645a28f9fe8f3f4c2e, type: 2}
+  - {fileID: 11400000, guid: a2da5e239614a0b4ab42427ffd83a04e, type: 2}
+  - {fileID: 11400000, guid: bab6eac03cb68084fa74b6ad13d605b6, type: 2}
+  - {fileID: 11400000, guid: 2546e3c81b1364344bfdb55f96754f86, type: 2}
+  - {fileID: 11400000, guid: 766aa949dc64aee44b8e1ef52121a443, type: 2}
+  - {fileID: 11400000, guid: 1326ba305bdb54f4cbc74fd21ce40a38, type: 2}
+  - {fileID: 11400000, guid: f1c87c6136d7aa746a320cb3e03dbee0, type: 2}
+  - {fileID: 11400000, guid: d0a5ffb90db78de4a9c72c99a6a6915a, type: 2}
+  - {fileID: 11400000, guid: faf9a852bb3ebe7489c6fb2893c989a9, type: 2}
+  - {fileID: 11400000, guid: 296e0514a4f86ac44979d5ef1fec8880, type: 2}
+  - {fileID: 11400000, guid: 6d4c330555888314e95d1aa590e2fe8b, type: 2}
+  - {fileID: 11400000, guid: e56477b38202bd141b1aef19204ae332, type: 2}
+  - {fileID: 11400000, guid: 991998e39e1593b4db4f1a9499d3bf59, type: 2}
+  - {fileID: 11400000, guid: ce98c0c8b91902045b7a53ca0bc3288f, type: 2}
+  - {fileID: 11400000, guid: 23f141f03189b6346a9f92643088deb7, type: 2}
+  - {fileID: 11400000, guid: 0e47957551d0a614bba7d983e4eb4bda, type: 2}
+  - {fileID: 11400000, guid: 027f9900586cffd4d93aaaed5ac351e2, type: 2}
+  - {fileID: 11400000, guid: e61406d2070e97b428e634f8da851eb6, type: 2}
+  - {fileID: 11400000, guid: ae0e6e021f50ae14cac3e18db0932f15, type: 2}
+  - {fileID: 11400000, guid: 16d9ab1e916f651459555de288693f52, type: 2}
   moons:
   - {fileID: 11400000, guid: 66d59ba8b9f85194c8472e25a216771d, type: 2}
   assetBank: {fileID: 11400000, guid: 1500ac4fef158a04888f88a2bc27d624, type: 2}

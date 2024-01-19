@@ -16,7 +16,7 @@ MonoBehaviour:
   IncompatibleBundles: []
   scrapType: 0
   itemName: Doomsday Apparatus
-  minValue: 180
+  minValue: 240
   maxValue: 313
   twoHanded: 1
   HandedAnimation: 1
