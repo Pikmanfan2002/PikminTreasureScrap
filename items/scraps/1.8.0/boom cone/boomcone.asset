@@ -10,49 +10,49 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 414444751, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
-  m_Name: treasuredgyroblock
+  m_Name: boomcone
   m_EditorClassIdentifier: 
   RequiredBundles: []
   IncompatibleBundles: []
   scrapType: 0
-  itemName: Treasured Gyro Block
-  minValue: 55
-  maxValue: 97
+  itemName: Boom Cone
+  minValue: 0
+  maxValue: 0
   twoHanded: 0
   HandedAnimation: 0
   requiresBattery: 0
   isConductiveMetal: 0
-  weight: 11
-  prefab: {fileID: 6137276586124199636, guid: 288ff6aeb2cccfa4db5cbec74e541ea3, type: 3}
-  grabSFX: PickUpPlasticBin
-  dropSFX: DropPlastic2
+  weight: 0
+  prefab: {fileID: 4677009294247408870, guid: d27421ebe2812f14c96bb068d13f9c7c, type: 3}
+  grabSFX: 
+  dropSFX: 
   verticalOffset: 0
   restingRotation: {x: 0, y: 0, z: 0}
-  positionOffset: {x: 0, y: 0.15, z: -0.25}
+  positionOffset: {x: 0, y: 0, z: 0}
   rotationOffset: {x: 0, y: 0, z: -90}
   meshVariants: []
   materialVariants: []
-  useGlobalSpawnWeight: 0
+  useGlobalSpawnWeight: 1
   globalSpawnWeight: 100
   _perPlanetSpawnWeight:
   - SceneName: 41 Experimentation
-    SpawnWeight: 11
+    SpawnWeight: 10
   - SceneName: 220 Assurance
-    SpawnWeight: 11
+    SpawnWeight: 10
   - SceneName: 56 Vow
-    SpawnWeight: 6
+    SpawnWeight: 10
   - SceneName: 21 Offense
-    SpawnWeight: 6
+    SpawnWeight: 10
   - SceneName: 61 March
-    SpawnWeight: 6
+    SpawnWeight: 10
   - SceneName: 85 Rend
-    SpawnWeight: 2
+    SpawnWeight: 10
   - SceneName: 7 Dine
-    SpawnWeight: 2
+    SpawnWeight: 10
   - SceneName: 8 Titan
-    SpawnWeight: 2
+    SpawnWeight: 10
   - SceneName: Others
-    SpawnWeight: 9
+    SpawnWeight: 10
   playetSpawnBlacklist: []
   shovelHitForce: 1
   shovelAudio: {fileID: 0}
@@ -93,5 +93,5 @@ MonoBehaviour:
   - Fart2
   - Fart3
   - Fart5
-  serializedData: 41 Experimentation,11;220 Assurance,11;56 Vow,6;21 Offense,6;61
-    March,6;85 Rend,2;7 Dine,2;8 Titan,2;Others,9
+  serializedData: 41 Experimentation,10;220 Assurance,10;56 Vow,10;21 Offense,10;61
+    March,10;85 Rend,10;7 Dine,10;8 Titan,10;Others,10
