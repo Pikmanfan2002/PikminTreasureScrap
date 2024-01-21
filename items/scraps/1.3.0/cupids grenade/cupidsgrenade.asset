@@ -16,7 +16,7 @@ MonoBehaviour:
   IncompatibleBundles: []
   scrapType: 0
   itemName: Cupids Grenade
-  minValue: 1
+  minValue: 2
   maxValue: 131
   twoHanded: 0
   HandedAnimation: 0
@@ -36,25 +36,25 @@ MonoBehaviour:
   globalSpawnWeight: 0
   _perPlanetSpawnWeight:
   - SceneName: 41 Experimentation
-    SpawnWeight: 16
+    SpawnWeight: 30
   - SceneName: 220 Assurance
-    SpawnWeight: 16
+    SpawnWeight: 30
   - SceneName: 56 Vow
-    SpawnWeight: 20
+    SpawnWeight: 35
   - SceneName: 21 Offense
     SpawnWeight: 20
   - SceneName: 61 March
-    SpawnWeight: 20
+    SpawnWeight: 25
   - SceneName: 85 Rend
-    SpawnWeight: 16
+    SpawnWeight: 5
   - SceneName: 7 Dine
-    SpawnWeight: 16
+    SpawnWeight: 5
   - SceneName: 8 Titan
-    SpawnWeight: 30
+    SpawnWeight: 0
   - SceneName: Others
     SpawnWeight: 25
+  playetSpawnBlacklist: []
   shovelHitForce: 1
-  isHoldingButton: 0
   shovelAudio: {fileID: 0}
   reelUp: ShovelReelUp
   swing: ShovelSwing
@@ -93,5 +93,5 @@ MonoBehaviour:
   - Fart2
   - Fart3
   - Fart5
-  serializedData: 41 Experimentation,16;220 Assurance,16;56 Vow,20;21 Offense,20;61
-    March,20;85 Rend,16;7 Dine,16;8 Titan,30;Others,25
+  serializedData: 41 Experimentation,30;220 Assurance,30;56 Vow,35;21 Offense,20;61
+    March,25;85 Rend,5;7 Dine,5;8 Titan,0;Others,25

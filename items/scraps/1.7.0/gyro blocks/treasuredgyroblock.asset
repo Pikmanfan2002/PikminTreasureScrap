@@ -36,21 +36,21 @@ MonoBehaviour:
   globalSpawnWeight: 100
   _perPlanetSpawnWeight:
   - SceneName: 41 Experimentation
-    SpawnWeight: 11
+    SpawnWeight: 7
   - SceneName: 220 Assurance
-    SpawnWeight: 11
+    SpawnWeight: 7
   - SceneName: 56 Vow
-    SpawnWeight: 6
+    SpawnWeight: 4
   - SceneName: 21 Offense
-    SpawnWeight: 6
+    SpawnWeight: 4
   - SceneName: 61 March
-    SpawnWeight: 6
+    SpawnWeight: 4
   - SceneName: 85 Rend
-    SpawnWeight: 2
+    SpawnWeight: 1
   - SceneName: 7 Dine
-    SpawnWeight: 2
+    SpawnWeight: 1
   - SceneName: 8 Titan
-    SpawnWeight: 2
+    SpawnWeight: 0
   - SceneName: Others
     SpawnWeight: 9
   playetSpawnBlacklist: []
@@ -93,5 +93,5 @@ MonoBehaviour:
   - Fart2
   - Fart3
   - Fart5
-  serializedData: 41 Experimentation,11;220 Assurance,11;56 Vow,6;21 Offense,6;61
-    March,6;85 Rend,2;7 Dine,2;8 Titan,2;Others,9
+  serializedData: 41 Experimentation,7;220 Assurance,7;56 Vow,4;21 Offense,4;61 March,4;85
+    Rend,1;7 Dine,1;8 Titan,0;Others,9

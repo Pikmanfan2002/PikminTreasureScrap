@@ -46,11 +46,11 @@ MonoBehaviour:
   - SceneName: 61 March
     SpawnWeight: 3
   - SceneName: 85 Rend
-    SpawnWeight: 12
+    SpawnWeight: 8
   - SceneName: 7 Dine
-    SpawnWeight: 12
+    SpawnWeight: 8
   - SceneName: 8 Titan
-    SpawnWeight: 9
+    SpawnWeight: 3
   - SceneName: Others
     SpawnWeight: 12
   playetSpawnBlacklist: []
@@ -94,4 +94,4 @@ MonoBehaviour:
   - Fart3
   - Fart5
   serializedData: 41 Experimentation,3;220 Assurance,3;56 Vow,3;21 Offense,3;61 March,3;85
-    Rend,12;7 Dine,12;8 Titan,9;Others,12
+    Rend,8;7 Dine,8;8 Titan,3;Others,12

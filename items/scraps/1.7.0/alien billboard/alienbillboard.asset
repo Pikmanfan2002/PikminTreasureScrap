@@ -36,9 +36,9 @@ MonoBehaviour:
   globalSpawnWeight: 100
   _perPlanetSpawnWeight:
   - SceneName: 41 Experimentation
-    SpawnWeight: 18
+    SpawnWeight: 15
   - SceneName: 220 Assurance
-    SpawnWeight: 18
+    SpawnWeight: 15
   - SceneName: 56 Vow
     SpawnWeight: 18
   - SceneName: 21 Offense
@@ -93,5 +93,5 @@ MonoBehaviour:
   - Fart2
   - Fart3
   - Fart5
-  serializedData: 41 Experimentation,18;220 Assurance,18;56 Vow,18;21 Offense,2;61
+  serializedData: 41 Experimentation,15;220 Assurance,15;56 Vow,18;21 Offense,2;61
     March,2;85 Rend,0;7 Dine,0;8 Titan,0;Others,10

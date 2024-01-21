@@ -50,7 +50,7 @@ MonoBehaviour:
   - SceneName: 7 Dine
     SpawnWeight: 10
   - SceneName: 8 Titan
-    SpawnWeight: 35
+    SpawnWeight: 25
   - SceneName: Others
     SpawnWeight: 10
   playetSpawnBlacklist: []
@@ -94,4 +94,4 @@ MonoBehaviour:
   - Fart3
   - Fart5
   serializedData: 41 Experimentation,0;220 Assurance,0;56 Vow,0;21 Offense,0;61 March,0;85
-    Rend,10;7 Dine,10;8 Titan,35;Others,10
+    Rend,10;7 Dine,10;8 Titan,25;Others,10

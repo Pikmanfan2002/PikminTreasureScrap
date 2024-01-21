@@ -36,25 +36,25 @@ MonoBehaviour:
   globalSpawnWeight: 10
   _perPlanetSpawnWeight:
   - SceneName: 41 Experimentation
-    SpawnWeight: 15
+    SpawnWeight: 10
   - SceneName: 220 Assurance
-    SpawnWeight: 15
+    SpawnWeight: 10
   - SceneName: 56 Vow
-    SpawnWeight: 15
+    SpawnWeight: 10
   - SceneName: 21 Offense
-    SpawnWeight: 25
+    SpawnWeight: 15
   - SceneName: 61 March
-    SpawnWeight: 25
+    SpawnWeight: 15
   - SceneName: 85 Rend
-    SpawnWeight: 10
+    SpawnWeight: 5
   - SceneName: 7 Dine
-    SpawnWeight: 10
+    SpawnWeight: 5
   - SceneName: 8 Titan
-    SpawnWeight: 10
+    SpawnWeight: 5
   - SceneName: Others
     SpawnWeight: 15
+  playetSpawnBlacklist: []
   shovelHitForce: 1
-  isHoldingButton: 0
   shovelAudio: {fileID: 0}
   reelUp: ShovelReelUp
   swing: ShovelSwing
@@ -93,5 +93,5 @@ MonoBehaviour:
   - Fart2
   - Fart3
   - Fart5
-  serializedData: 41 Experimentation,15;220 Assurance,15;56 Vow,15;21 Offense,25;61
-    March,25;85 Rend,10;7 Dine,10;8 Titan,10;Others,15
+  serializedData: 41 Experimentation,10;220 Assurance,10;56 Vow,10;21 Offense,15;61
+    March,15;85 Rend,5;7 Dine,5;8 Titan,5;Others,15
