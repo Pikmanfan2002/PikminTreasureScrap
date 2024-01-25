@@ -24,7 +24,7 @@ MonoBehaviour:
   isConductiveMetal: 1
   weight: 24
   prefab: {fileID: 8731437706577419961, guid: fd7cfb8a544dd454193d549fe5042b70, type: 3}
-  grabSFX: GrabShotgun
+  grabSFX: GrabRadar
   dropSFX: DropMetalObject2
   verticalOffset: 0
   restingRotation: {x: 0, y: 0, z: 0}

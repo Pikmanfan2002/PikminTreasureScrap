@@ -31,11 +31,23 @@ MonoBehaviour:
   - AudioClipName: DropLouie
     AudioClipPath: 
     AudioClip: {fileID: 8300000, guid: 461ef6b5517f92842b76d04ff24ed7f6, type: 3}
+  - AudioClipName: GrabRadar
+    AudioClipPath: 
+    AudioClip: {fileID: 8300000, guid: a3acc19926d2f5349a00697430a7983a, type: 3}
+  - AudioClipName: WhistleO
+    AudioClipPath: 
+    AudioClip: {fileID: 8300000, guid: ef4c324d9c378fe4c88753c9d9996ac0, type: 3}
+  - AudioClipName: WhistleL
+    AudioClipPath: 
+    AudioClip: {fileID: 8300000, guid: 6ef7a2249cb974342b2c9cb055b81fb0, type: 3}
+  - AudioClipName: WhistleP
+    AudioClipPath: 
+    AudioClip: {fileID: 8300000, guid: 2b84391d55c5aed4191157c29951a8f4, type: 3}
   _planetPrefabs:
   - PlanetPrefabName: testmoon
     PlanetPrefabPath: 
     PlanetPrefab: {fileID: 2016254630306542993, guid: 02fe3a1f5bf3f524e93e98461f4b9bc6, type: 3}
   _networkPrefabs: []
-  serializedAudioClips: VineBoom,Assets/Mods/PikminTreasureScrap/sounds/vineboom.mp3;DropCookie,Assets/Mods/PikminTreasureScrap/sounds/lightcookiedrop.wav;DropCookieHeavy,Assets/Mods/PikminTreasureScrap/sounds/heavycookiedrop.wav;DropPaper,Assets/Mods/PikminTreasureScrap/sounds/droppaper.wav;GrabLouie,Assets/Mods/PikminTreasureScrap/sounds/grablouie.wav;DropLouie,Assets/Mods/PikminTreasureScrap/sounds/droplouie.wav
+  serializedAudioClips: VineBoom,Assets/Mods/PikminTreasureScrap/sounds/vineboom.mp3;DropCookie,Assets/Mods/PikminTreasureScrap/sounds/lightcookiedrop.wav;DropCookieHeavy,Assets/Mods/PikminTreasureScrap/sounds/heavycookiedrop.wav;DropPaper,Assets/Mods/PikminTreasureScrap/sounds/droppaper.wav;GrabLouie,Assets/Mods/PikminTreasureScrap/sounds/grablouie.wav;DropLouie,Assets/Mods/PikminTreasureScrap/sounds/droplouie.wav;GrabRadar,Assets/Mods/PikminTreasureScrap/sounds/treasuregauge.mp3;WhistleO,Assets/Mods/PikminTreasureScrap/sounds/olimarwhistle.mp3;WhistleL,Assets/Mods/PikminTreasureScrap/sounds/louiewhistle.mp3;WhistleP,Assets/Mods/PikminTreasureScrap/sounds/presidentwhistle.mp3
   serializedPlanetPrefabs: testmoon,Assets/Mods/PikminTreasureScrap/moons/testmoon.prefab
   serializedNetworkPrefabs: 

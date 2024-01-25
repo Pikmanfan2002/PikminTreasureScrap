@@ -108,7 +108,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: d05f3b0e877e4f141aeb4dce3ba452d8, type: 2}
   - {fileID: 11400000, guid: 6bfb38eb2003d9b4d8963fe733ed5ffb, type: 2}
   - {fileID: 11400000, guid: 306df5fffcfac2b418ab9ca9d313a30a, type: 2}
-  - {fileID: 11400000, guid: 8ca8f40c5a0e15c4e80c3bdf92c6b03c, type: 2}
+  - {fileID: 11400000, guid: 7e755bd35513d014c98eaf21d9c72656, type: 2}
   - {fileID: 11400000, guid: 3ffc4cb903653464fa784bb985ee2700, type: 2}
   - {fileID: 11400000, guid: a5591be9c4eee3048a83f8bfb24c039b, type: 2}
   - {fileID: 11400000, guid: 1defe08b40162bb42b28a5e0d2436c4b, type: 2}
@@ -122,6 +122,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 9a33e86148449154db022e3548c5e319, type: 2}
   - {fileID: 11400000, guid: 49d2700c154671e4fa5c24b03859702d, type: 2}
   - {fileID: 11400000, guid: 6501da883c1f5484394c09d16ad5da0b, type: 2}
+  - {fileID: 11400000, guid: 8ca8f40c5a0e15c4e80c3bdf92c6b03c, type: 2}
   moons:
   - {fileID: 11400000, guid: 66d59ba8b9f85194c8472e25a216771d, type: 2}
   assetBank: {fileID: 11400000, guid: 1500ac4fef158a04888f88a2bc27d624, type: 2}

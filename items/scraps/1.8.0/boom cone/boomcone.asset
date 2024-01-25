@@ -28,7 +28,7 @@ MonoBehaviour:
   dropSFX: 
   verticalOffset: 0
   restingRotation: {x: 0, y: 0, z: 0}
-  positionOffset: {x: 0, y: 0, z: 0}
+  positionOffset: {x: -0.25, y: 0, z: -0.2}
   rotationOffset: {x: 0, y: 0, z: -90}
   meshVariants: []
   materialVariants: []
