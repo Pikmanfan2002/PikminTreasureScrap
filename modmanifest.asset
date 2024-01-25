@@ -15,12 +15,12 @@ MonoBehaviour:
   modName: Pikmin Scrap
   version:
     Major: 1
-    Minor: 5
+    Minor: 8
     Build: 0
     Revision: 0
-  serializedVersion: 1.5.0.0
+  serializedVersion: 1.8.0.0
   author: Pikmanfan2002
-  description: Adds 40 treasures from Pikmin 2 into Lethal Company!
+  description: Adds 101 treasures from Pikmin 2 into Lethal Company!
   scraps:
   - {fileID: 11400000, guid: ec595f55f745c51458c777a455a2b74d, type: 2}
   - {fileID: 11400000, guid: 476777416c799b844ae2e043f8a7f1e9, type: 2}
@@ -93,5 +93,35 @@ MonoBehaviour:
   - {fileID: 11400000, guid: e61406d2070e97b428e634f8da851eb6, type: 2}
   - {fileID: 11400000, guid: ae0e6e021f50ae14cac3e18db0932f15, type: 2}
   - {fileID: 11400000, guid: 16d9ab1e916f651459555de288693f52, type: 2}
-  moons: []
+  - {fileID: 11400000, guid: 31676deb8af8ab849afa7e8051f5a27a, type: 2}
+  - {fileID: 11400000, guid: 73264af3293d98c42bd680392a7b022d, type: 2}
+  - {fileID: 11400000, guid: 4c87a7ebb62b1514e8abadd1ea57465c, type: 2}
+  - {fileID: 11400000, guid: fca3ca7daf76df24ea7a7e72b2fc1cc6, type: 2}
+  - {fileID: 11400000, guid: d12fa7cfaf5cfc54e969e4057468b137, type: 2}
+  - {fileID: 11400000, guid: 4b16381b3b2c7a54ea46578290430394, type: 2}
+  - {fileID: 11400000, guid: 2a3bcb416a1054f4f9993a1bebacc262, type: 2}
+  - {fileID: 11400000, guid: 5992e62ab28f96d4e837813d49aa9ce7, type: 2}
+  - {fileID: 11400000, guid: ad7862862c106bf43ae5f55ef70f164e, type: 2}
+  - {fileID: 11400000, guid: c2d43b2a629a3534fb4e108c8c6de692, type: 2}
+  - {fileID: 11400000, guid: 4700590940ffec64694a222dc0bb14cb, type: 2}
+  - {fileID: 11400000, guid: 02bee5686105e9f408aa6e6235cb7f7a, type: 2}
+  - {fileID: 11400000, guid: d05f3b0e877e4f141aeb4dce3ba452d8, type: 2}
+  - {fileID: 11400000, guid: 6bfb38eb2003d9b4d8963fe733ed5ffb, type: 2}
+  - {fileID: 11400000, guid: 306df5fffcfac2b418ab9ca9d313a30a, type: 2}
+  - {fileID: 11400000, guid: 8ca8f40c5a0e15c4e80c3bdf92c6b03c, type: 2}
+  - {fileID: 11400000, guid: 3ffc4cb903653464fa784bb985ee2700, type: 2}
+  - {fileID: 11400000, guid: a5591be9c4eee3048a83f8bfb24c039b, type: 2}
+  - {fileID: 11400000, guid: 1defe08b40162bb42b28a5e0d2436c4b, type: 2}
+  - {fileID: 11400000, guid: 2b09b59e6eaf88b4caee1049e0a24b0e, type: 2}
+  - {fileID: 11400000, guid: a0adce469d0799244904de1ba948d91a, type: 2}
+  - {fileID: 11400000, guid: 43cd0547cf31ccc44b71f287fae38bb5, type: 2}
+  - {fileID: 11400000, guid: 912d1c6b39f235d4a8b1f18dc4dff627, type: 2}
+  - {fileID: 11400000, guid: 464f15f276f40a84aace9397538d1fd3, type: 2}
+  - {fileID: 11400000, guid: dd350212acfb05b49aa34ba0d371e058, type: 2}
+  - {fileID: 11400000, guid: 279b56d7c38ccec439aeab3d7d25731a, type: 2}
+  - {fileID: 11400000, guid: 9a33e86148449154db022e3548c5e319, type: 2}
+  - {fileID: 11400000, guid: 49d2700c154671e4fa5c24b03859702d, type: 2}
+  - {fileID: 11400000, guid: 6501da883c1f5484394c09d16ad5da0b, type: 2}
+  moons:
+  - {fileID: 11400000, guid: 66d59ba8b9f85194c8472e25a216771d, type: 2}
   assetBank: {fileID: 11400000, guid: 1500ac4fef158a04888f88a2bc27d624, type: 2}
