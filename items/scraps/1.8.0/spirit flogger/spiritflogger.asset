@@ -16,44 +16,44 @@ MonoBehaviour:
   IncompatibleBundles: []
   scrapType: 0
   itemName: Spirit Flogger
-  minValue: 0
-  maxValue: 0
+  minValue: 80
+  maxValue: 145
   twoHanded: 0
   HandedAnimation: 0
   requiresBattery: 0
   isConductiveMetal: 1
-  weight: 0
+  weight: 20
   prefab: {fileID: 7138598273934873624, guid: 222feacde3d11214794703dc4261fa98, type: 3}
   grabSFX: 
   dropSFX: 
   verticalOffset: 0
   restingRotation: {x: 0, y: 0, z: 0}
-  positionOffset: {x: 0, y: 0.1, z: -0.4}
+  positionOffset: {x: -0.1, y: 0.05, z: -0.5}
   rotationOffset: {x: 0, y: 0, z: -90}
   meshVariants: []
   materialVariants: []
-  useGlobalSpawnWeight: 1
+  useGlobalSpawnWeight: 0
   globalSpawnWeight: 100
   _perPlanetSpawnWeight:
   - SceneName: 41 Experimentation
-    SpawnWeight: 10
+    SpawnWeight: 25
   - SceneName: 220 Assurance
-    SpawnWeight: 10
+    SpawnWeight: 25
   - SceneName: 56 Vow
-    SpawnWeight: 10
+    SpawnWeight: 25
   - SceneName: 21 Offense
-    SpawnWeight: 10
+    SpawnWeight: 20
   - SceneName: 61 March
-    SpawnWeight: 10
+    SpawnWeight: 20
   - SceneName: 85 Rend
-    SpawnWeight: 10
+    SpawnWeight: 0
   - SceneName: 7 Dine
-    SpawnWeight: 10
+    SpawnWeight: 0
   - SceneName: 8 Titan
-    SpawnWeight: 10
+    SpawnWeight: 5
   - SceneName: Others
-    SpawnWeight: 10
-  playetSpawnBlacklist: []
+    SpawnWeight: 15
+  planetSpawnBlacklist: []
   shovelHitForce: 1
   shovelAudio: {fileID: 0}
   reelUp: ShovelReelUp
@@ -93,5 +93,5 @@ MonoBehaviour:
   - Fart2
   - Fart3
   - Fart5
-  serializedData: 41 Experimentation,10;220 Assurance,10;56 Vow,10;21 Offense,10;61
-    March,10;85 Rend,10;7 Dine,10;8 Titan,10;Others,10
+  serializedData: 41 Experimentation,25;220 Assurance,25;56 Vow,25;21 Offense,20;61
+    March,20;85 Rend,0;7 Dine,0;8 Titan,5;Others,15

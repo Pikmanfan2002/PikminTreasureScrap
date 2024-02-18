@@ -16,44 +16,44 @@ MonoBehaviour:
   IncompatibleBundles: []
   scrapType: 0
   itemName: Memorial Shell
-  minValue: 0
-  maxValue: 0
-  twoHanded: 0
+  minValue: 183
+  maxValue: 235
+  twoHanded: 1
   HandedAnimation: 1
   requiresBattery: 0
   isConductiveMetal: 0
-  weight: 0
+  weight: 10
   prefab: {fileID: 6014150994889589579, guid: b4164726b70868349a69aa70f9558e7a, type: 3}
-  grabSFX: 
-  dropSFX: 
+  grabSFX: GrabCardboardBox
+  dropSFX: DropCardboardBox
   verticalOffset: 0.15
   restingRotation: {x: 0, y: 0, z: 0}
-  positionOffset: {x: 0, y: 0, z: 0}
+  positionOffset: {x: -0.2, y: 0, z: 0.1}
   rotationOffset: {x: 0, y: 0, z: 0}
   meshVariants: []
   materialVariants: []
-  useGlobalSpawnWeight: 1
+  useGlobalSpawnWeight: 0
   globalSpawnWeight: 100
   _perPlanetSpawnWeight:
   - SceneName: 41 Experimentation
-    SpawnWeight: 10
+    SpawnWeight: 0
   - SceneName: 220 Assurance
-    SpawnWeight: 10
+    SpawnWeight: 0
   - SceneName: 56 Vow
-    SpawnWeight: 10
+    SpawnWeight: 0
   - SceneName: 21 Offense
-    SpawnWeight: 10
+    SpawnWeight: 0
   - SceneName: 61 March
-    SpawnWeight: 10
+    SpawnWeight: 0
   - SceneName: 85 Rend
-    SpawnWeight: 10
+    SpawnWeight: 12
   - SceneName: 7 Dine
-    SpawnWeight: 10
+    SpawnWeight: 12
   - SceneName: 8 Titan
-    SpawnWeight: 10
+    SpawnWeight: 12
   - SceneName: Others
-    SpawnWeight: 10
-  playetSpawnBlacklist: []
+    SpawnWeight: 6
+  planetSpawnBlacklist: []
   shovelHitForce: 1
   shovelAudio: {fileID: 0}
   reelUp: ShovelReelUp
@@ -93,5 +93,5 @@ MonoBehaviour:
   - Fart2
   - Fart3
   - Fart5
-  serializedData: 41 Experimentation,10;220 Assurance,10;56 Vow,10;21 Offense,10;61
-    March,10;85 Rend,10;7 Dine,10;8 Titan,10;Others,10
+  serializedData: 41 Experimentation,0;220 Assurance,0;56 Vow,0;21 Offense,0;61 March,0;85
+    Rend,12;7 Dine,12;8 Titan,12;Others,6

@@ -23,6 +23,7 @@ MonoBehaviour:
   PlanetName: Yippee
   MainPrefab: {fileID: 2016254630306542993, guid: 02fe3a1f5bf3f524e93e98461f4b9bc6, type: 3}
   PlanetDescription: Test.
+  PlanetLore: 
   PlanetVideo: {fileID: 0}
   RiskLevel: hehe
   TimeToArrive: 1
@@ -32,22 +33,7 @@ MonoBehaviour:
   - Weather: -1
     WeatherVariable1: 0
     WeatherVariable2: 0
-  - Weather: 1
-    WeatherVariable1: 0
-    WeatherVariable2: 0
-  - Weather: 2
-    WeatherVariable1: 1
-    WeatherVariable2: 0
-  - Weather: 3
-    WeatherVariable1: 1
-    WeatherVariable2: 0
-  - Weather: 4
-    WeatherVariable1: -4
-    WeatherVariable2: 5
-  - Weather: 5
-    WeatherVariable1: 1
-    WeatherVariable2: 0
-  OverwriteWeather: 0
+  OverwriteWeather: 1
   OverwriteWeatherType: -1
   RouteWord: doomsday
   RoutePrice: 0
@@ -500,7 +486,7 @@ MonoBehaviour:
     m_RotationOrder: 4
   DaytimeEnemiesProbabilityRange: 5
   LevelIncludesSnowFootprints: 0
-  serializedRandomWeatherTypes: -1,0,0;1,0,0;2,1,0;3,1,0;4,-4,5;5,1,0
+  serializedRandomWeatherTypes: -1,0,0
   serializedDungeonFlowTypes: 0,300;1,1
   serializedSpawnableScrap: 
   serializedEnemies: 

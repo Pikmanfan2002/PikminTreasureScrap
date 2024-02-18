@@ -16,44 +16,44 @@ MonoBehaviour:
   IncompatibleBundles: []
   scrapType: 0
   itemName: Boom Cone
-  minValue: 0
-  maxValue: 0
+  minValue: 140
+  maxValue: 210
   twoHanded: 0
   HandedAnimation: 0
   requiresBattery: 0
   isConductiveMetal: 0
-  weight: 0
+  weight: 10
   prefab: {fileID: 4677009294247408870, guid: d27421ebe2812f14c96bb068d13f9c7c, type: 3}
-  grabSFX: 
-  dropSFX: 
+  grabSFX: GrabCardboardBox
+  dropSFX: DropCardboardBox
   verticalOffset: 0
   restingRotation: {x: 0, y: 0, z: 0}
   positionOffset: {x: -0.25, y: 0, z: -0.2}
   rotationOffset: {x: 0, y: 0, z: -90}
   meshVariants: []
   materialVariants: []
-  useGlobalSpawnWeight: 1
+  useGlobalSpawnWeight: 0
   globalSpawnWeight: 100
   _perPlanetSpawnWeight:
   - SceneName: 41 Experimentation
-    SpawnWeight: 10
+    SpawnWeight: 5
   - SceneName: 220 Assurance
-    SpawnWeight: 10
+    SpawnWeight: 5
   - SceneName: 56 Vow
-    SpawnWeight: 10
+    SpawnWeight: 5
   - SceneName: 21 Offense
-    SpawnWeight: 10
+    SpawnWeight: 5
   - SceneName: 61 March
-    SpawnWeight: 10
+    SpawnWeight: 5
   - SceneName: 85 Rend
-    SpawnWeight: 10
+    SpawnWeight: 15
   - SceneName: 7 Dine
-    SpawnWeight: 10
+    SpawnWeight: 15
   - SceneName: 8 Titan
-    SpawnWeight: 10
+    SpawnWeight: 2
   - SceneName: Others
     SpawnWeight: 10
-  playetSpawnBlacklist: []
+  planetSpawnBlacklist: []
   shovelHitForce: 1
   shovelAudio: {fileID: 0}
   reelUp: ShovelReelUp
@@ -93,5 +93,5 @@ MonoBehaviour:
   - Fart2
   - Fart3
   - Fart5
-  serializedData: 41 Experimentation,10;220 Assurance,10;56 Vow,10;21 Offense,10;61
-    March,10;85 Rend,10;7 Dine,10;8 Titan,10;Others,10
+  serializedData: 41 Experimentation,5;220 Assurance,5;56 Vow,5;21 Offense,5;61 March,5;85
+    Rend,15;7 Dine,15;8 Titan,2;Others,10

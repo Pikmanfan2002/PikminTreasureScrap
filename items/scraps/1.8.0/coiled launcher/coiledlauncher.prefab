@@ -28,8 +28,8 @@ Transform:
   m_GameObject: {fileID: 7046056724481712435}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.45, z: 0}
-  m_LocalScale: {x: 0.85, y: 0.9, z: 0.85}
+  m_LocalPosition: {x: 0, y: 0.3, z: 0}
+  m_LocalScale: {x: 0.65, y: 0.6, z: 0.65}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 6082074141528661322}
@@ -115,7 +115,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 84c72febedd7a2a4c9e2add92a06aa6f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 26.167
+      value: 36.51
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 84c72febedd7a2a4c9e2add92a06aa6f, type: 3}
       propertyPath: m_LocalPosition.y
@@ -123,7 +123,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 84c72febedd7a2a4c9e2add92a06aa6f, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 6.14
+      value: 13.755
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 84c72febedd7a2a4c9e2add92a06aa6f, type: 3}
       propertyPath: m_LocalRotation.w
@@ -171,19 +171,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1151388028547126963, guid: 84c72febedd7a2a4c9e2add92a06aa6f, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.012
+      value: 0.009
       objectReference: {fileID: 0}
     - target: {fileID: 1151388028547126963, guid: 84c72febedd7a2a4c9e2add92a06aa6f, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.012
+      value: 0.009
       objectReference: {fileID: 0}
     - target: {fileID: 1151388028547126963, guid: 84c72febedd7a2a4c9e2add92a06aa6f, type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.012
+      value: 0.009
       objectReference: {fileID: 0}
     - target: {fileID: 1151388028547126963, guid: 84c72febedd7a2a4c9e2add92a06aa6f, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.415
+      value: 0.298
       objectReference: {fileID: 0}
     - target: {fileID: 1151388028547126963, guid: 84c72febedd7a2a4c9e2add92a06aa6f, type: 3}
       propertyPath: m_ConstrainProportionsScale
@@ -232,8 +232,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.85, y: 0.9, z: 0.85}
-  m_Center: {x: 0, y: 0.45, z: 0}
+  m_Size: {x: 0.65, y: 0.6, z: 0.65}
+  m_Center: {x: 0, y: 0.3, z: 0}
 --- !u!114 &2714046795892566002
 MonoBehaviour:
   m_ObjectHideFlags: 0

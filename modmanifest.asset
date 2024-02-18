@@ -123,6 +123,5 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 49d2700c154671e4fa5c24b03859702d, type: 2}
   - {fileID: 11400000, guid: 6501da883c1f5484394c09d16ad5da0b, type: 2}
   - {fileID: 11400000, guid: 8ca8f40c5a0e15c4e80c3bdf92c6b03c, type: 2}
-  moons:
-  - {fileID: 11400000, guid: 66d59ba8b9f85194c8472e25a216771d, type: 2}
+  moons: []
   assetBank: {fileID: 11400000, guid: 1500ac4fef158a04888f88a2bc27d624, type: 2}

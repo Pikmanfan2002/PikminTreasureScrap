@@ -28,11 +28,11 @@ MonoBehaviour:
   dropSFX: DropHeavyBox1
   verticalOffset: 0.4
   restingRotation: {x: 0, y: 0, z: 0}
-  positionOffset: {x: -0.1, y: -0.2, z: 0}
+  positionOffset: {x: -0.2, y: 0.2, z: 0.15}
   rotationOffset: {x: 0, y: 0, z: 0}
   meshVariants: []
   materialVariants: []
-  useGlobalSpawnWeight: 1
+  useGlobalSpawnWeight: 0
   globalSpawnWeight: 100
   _perPlanetSpawnWeight:
   - SceneName: 41 Experimentation
@@ -53,7 +53,7 @@ MonoBehaviour:
     SpawnWeight: 10
   - SceneName: Others
     SpawnWeight: 16
-  playetSpawnBlacklist: []
+  planetSpawnBlacklist: []
   shovelHitForce: 1
   shovelAudio: {fileID: 0}
   reelUp: ShovelReelUp
