@@ -24,6 +24,7 @@ MonoBehaviour:
   isConductiveMetal: 0
   weight: 15
   prefab: {fileID: 8729629938272010973, guid: 0dead6aabdaf3164e9ab833cb8ee6cac, type: 3}
+  useCooldown: 0
   grabSFX: GrabCardboardBox
   dropSFX: DropCardboardBox
   verticalOffset: 0
@@ -32,7 +33,7 @@ MonoBehaviour:
   rotationOffset: {x: 0, y: 0, z: -90}
   meshVariants: []
   materialVariants: []
-  useGlobalSpawnWeight: 0
+  useGlobalSpawnWeight: 1
   globalSpawnWeight: 100
   _perPlanetSpawnWeight:
   - SceneName: 41 Experimentation

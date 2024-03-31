@@ -24,6 +24,7 @@ MonoBehaviour:
   isConductiveMetal: 1
   weight: 5
   prefab: {fileID: 8186815643349398352, guid: d58336f0e6932754db6a29651d1d1db6, type: 3}
+  useCooldown: 0
   grabSFX: GrabBottle
   dropSFX: DropBottleSingle
   verticalOffset: 0
@@ -63,15 +64,15 @@ MonoBehaviour:
   - ShovelHitDefault2
   usingPlayerHelmetLight: 0
   flashlightInterferenceLevel: 0
-  flashlightBulb: {fileID: 0}
-  flashlightBulbGlow: {fileID: 0}
+  flashlightBulb: {fileID: 5155817179554027478, guid: 5da1d94b9ce6c7b48bb253395a1c5766, type: 3}
+  flashlightBulbGlow: {fileID: 5155817179554027478, guid: 5da1d94b9ce6c7b48bb253395a1c5766, type: 3}
   flashlightAudio: {fileID: 0}
   flashlightClips:
   - FlashlightClick
   outOfBatteriesClip: FlashlightOutOfBatteries
   flashlightFlicker: FlashlightFlicker
-  bulbLight: {fileID: 0}
-  bulbDark: {fileID: 0}
+  bulbLight: {fileID: 2100000, guid: 61e4edbab1210824396e571c7163fa62, type: 2}
+  bulbDark: {fileID: 2100000, guid: ebd601744fda7c8478558712c65bcf6e, type: 2}
   flashlightMesh: {fileID: 0}
   flashlightTypeID: 0
   changeMaterial: 1
