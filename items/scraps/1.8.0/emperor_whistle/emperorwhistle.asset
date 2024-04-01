@@ -24,7 +24,7 @@ MonoBehaviour:
   isConductiveMetal: 0
   weight: 15
   prefab: {fileID: 3228555193263672178, guid: 5da3f529c94195f45bfa46da3cb9f9e9, type: 3}
-  useCooldown: 0
+  useCooldown: 2
   grabSFX: 
   dropSFX: 
   verticalOffset: 0

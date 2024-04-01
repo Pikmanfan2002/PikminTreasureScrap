@@ -16,43 +16,44 @@ MonoBehaviour:
   IncompatibleBundles: []
   scrapType: 0
   itemName: Hideous Victual
-  minValue: 0
-  maxValue: 0
+  minValue: 165
+  maxValue: 210
   twoHanded: 0
   HandedAnimation: 0
   requiresBattery: 0
   isConductiveMetal: 0
   weight: 10
   prefab: {fileID: 7920046215447772343, guid: 9f9d1e001e96c284999d4662ad389e66, type: 3}
+  useCooldown: 0
   grabSFX: BeeHiveGrab
   dropSFX: BeeHiveDrop
   verticalOffset: 0
   restingRotation: {x: 0, y: 0, z: 0}
-  positionOffset: {x: 0, y: 0.15, z: -0.51}
+  positionOffset: {x: -0.05, y: 0.15, z: -0.51}
   rotationOffset: {x: 0, y: 0, z: -90}
   meshVariants: []
   materialVariants: []
-  useGlobalSpawnWeight: 1
+  useGlobalSpawnWeight: 0
   globalSpawnWeight: 100
   _perPlanetSpawnWeight:
   - SceneName: 41 Experimentation
-    SpawnWeight: 10
+    SpawnWeight: 0
   - SceneName: 220 Assurance
-    SpawnWeight: 10
+    SpawnWeight: 0
   - SceneName: 56 Vow
-    SpawnWeight: 10
+    SpawnWeight: 0
   - SceneName: 21 Offense
-    SpawnWeight: 10
+    SpawnWeight: 0
   - SceneName: 61 March
-    SpawnWeight: 10
+    SpawnWeight: 0
   - SceneName: 85 Rend
     SpawnWeight: 10
   - SceneName: 7 Dine
     SpawnWeight: 10
   - SceneName: 8 Titan
-    SpawnWeight: 10
+    SpawnWeight: 5
   - SceneName: Others
-    SpawnWeight: 10
+    SpawnWeight: 8
   planetSpawnBlacklist: []
   shovelHitForce: 1
   shovelAudio: {fileID: 0}
@@ -93,5 +94,5 @@ MonoBehaviour:
   - Fart2
   - Fart3
   - Fart5
-  serializedData: 41 Experimentation,10;220 Assurance,10;56 Vow,10;21 Offense,10;61
-    March,10;85 Rend,10;7 Dine,10;8 Titan,10;Others,10
+  serializedData: 41 Experimentation,0;220 Assurance,0;56 Vow,0;21 Offense,0;61 March,0;85
+    Rend,10;7 Dine,10;8 Titan,5;Others,8

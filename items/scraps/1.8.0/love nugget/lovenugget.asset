@@ -18,8 +18,8 @@ MonoBehaviour:
   itemName: Love Nugget
   minValue: 55
   maxValue: 110
-  twoHanded: 1
-  HandedAnimation: 1
+  twoHanded: 0
+  HandedAnimation: 0
   requiresBattery: 0
   isConductiveMetal: 0
   weight: 20
@@ -29,8 +29,8 @@ MonoBehaviour:
   dropSFX: DropCardboardBox
   verticalOffset: 0
   restingRotation: {x: 0, y: 0, z: 0}
-  positionOffset: {x: 0, y: -0.25, z: 0.05}
-  rotationOffset: {x: 0, y: 0, z: 0}
+  positionOffset: {x: -0.35, y: 0.15, z: -0.4}
+  rotationOffset: {x: 0, y: 0, z: -90}
   meshVariants: []
   materialVariants: []
   useGlobalSpawnWeight: 1

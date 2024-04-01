@@ -18,8 +18,8 @@ MonoBehaviour:
   itemName: Combustion Berry
   minValue: 63
   maxValue: 200
-  twoHanded: 1
-  HandedAnimation: 1
+  twoHanded: 0
+  HandedAnimation: 0
   requiresBattery: 0
   isConductiveMetal: 0
   weight: 12
@@ -29,8 +29,8 @@ MonoBehaviour:
   dropSFX: BeeHiveDrop
   verticalOffset: 0
   restingRotation: {x: 0, y: 0, z: 0}
-  positionOffset: {x: 0.15, y: 0, z: 0.15}
-  rotationOffset: {x: 0, y: 0, z: 90}
+  positionOffset: {x: -0.4, y: 0.15, z: -0.375}
+  rotationOffset: {x: 180, y: 0, z: -90}
   meshVariants: []
   materialVariants: []
   useGlobalSpawnWeight: 1

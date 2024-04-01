@@ -16,14 +16,15 @@ MonoBehaviour:
   IncompatibleBundles: []
   scrapType: 0
   itemName: Compelling Cookie
-  minValue: 0
-  maxValue: 0
+  minValue: 25
+  maxValue: 65
   twoHanded: 0
   HandedAnimation: 0
   requiresBattery: 0
   isConductiveMetal: 0
   weight: 3
   prefab: {fileID: 3533351841591451465, guid: 2947fef5264a54647a401d0781f9a7e8, type: 3}
+  useCooldown: 0
   grabSFX: GrabFlashlight
   dropSFX: DropCookie
   verticalOffset: 0
@@ -32,27 +33,27 @@ MonoBehaviour:
   rotationOffset: {x: 0, y: 0, z: -90}
   meshVariants: []
   materialVariants: []
-  useGlobalSpawnWeight: 1
+  useGlobalSpawnWeight: 0
   globalSpawnWeight: 100
   _perPlanetSpawnWeight:
   - SceneName: 41 Experimentation
-    SpawnWeight: 10
+    SpawnWeight: 35
   - SceneName: 220 Assurance
-    SpawnWeight: 10
+    SpawnWeight: 35
   - SceneName: 56 Vow
-    SpawnWeight: 10
+    SpawnWeight: 35
   - SceneName: 21 Offense
-    SpawnWeight: 10
+    SpawnWeight: 25
   - SceneName: 61 March
-    SpawnWeight: 10
+    SpawnWeight: 25
   - SceneName: 85 Rend
-    SpawnWeight: 10
+    SpawnWeight: 0
   - SceneName: 7 Dine
-    SpawnWeight: 10
+    SpawnWeight: 0
   - SceneName: 8 Titan
-    SpawnWeight: 10
+    SpawnWeight: 0
   - SceneName: Others
-    SpawnWeight: 10
+    SpawnWeight: 15
   planetSpawnBlacklist: []
   shovelHitForce: 1
   shovelAudio: {fileID: 0}
@@ -93,5 +94,5 @@ MonoBehaviour:
   - Fart2
   - Fart3
   - Fart5
-  serializedData: 41 Experimentation,10;220 Assurance,10;56 Vow,10;21 Offense,10;61
-    March,10;85 Rend,10;7 Dine,10;8 Titan,10;Others,10
+  serializedData: 41 Experimentation,35;220 Assurance,35;56 Vow,35;21 Offense,25;61
+    March,25;85 Rend,0;7 Dine,0;8 Titan,0;Others,15

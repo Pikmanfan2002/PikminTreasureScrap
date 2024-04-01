@@ -24,6 +24,7 @@ MonoBehaviour:
   isConductiveMetal: 1
   weight: 12
   prefab: {fileID: 2692120584568858473, guid: bd06326902c23cc40964c440dc5751c9, type: 3}
+  useCooldown: 0
   grabSFX: 
   dropSFX: DropMetalObject1
   verticalOffset: 0
@@ -42,9 +43,9 @@ MonoBehaviour:
   - SceneName: 56 Vow
     SpawnWeight: 2
   - SceneName: 21 Offense
-    SpawnWeight: 3
+    SpawnWeight: 4
   - SceneName: 61 March
-    SpawnWeight: 3
+    SpawnWeight: 4
   - SceneName: 85 Rend
     SpawnWeight: 1
   - SceneName: 7 Dine
@@ -53,7 +54,7 @@ MonoBehaviour:
     SpawnWeight: 1
   - SceneName: Others
     SpawnWeight: 2
-  playetSpawnBlacklist: []
+  planetSpawnBlacklist: []
   shovelHitForce: 1
   shovelAudio: {fileID: 0}
   reelUp: ShovelReelUp
@@ -93,5 +94,5 @@ MonoBehaviour:
   - Fart2
   - Fart3
   - Fart5
-  serializedData: 41 Experimentation,2;220 Assurance,2;56 Vow,2;21 Offense,3;61 March,3;85
+  serializedData: 41 Experimentation,2;220 Assurance,2;56 Vow,2;21 Offense,4;61 March,4;85
     Rend,1;7 Dine,1;8 Titan,1;Others,2

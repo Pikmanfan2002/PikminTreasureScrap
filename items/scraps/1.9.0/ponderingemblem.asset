@@ -33,7 +33,7 @@ MonoBehaviour:
   rotationOffset: {x: 160, y: 140, z: 0}
   meshVariants: []
   materialVariants: []
-  useGlobalSpawnWeight: 1
+  useGlobalSpawnWeight: 0
   globalSpawnWeight: 100
   _perPlanetSpawnWeight:
   - SceneName: 41 Experimentation
@@ -43,9 +43,9 @@ MonoBehaviour:
   - SceneName: 56 Vow
     SpawnWeight: 2
   - SceneName: 21 Offense
-    SpawnWeight: 3
+    SpawnWeight: 4
   - SceneName: 61 March
-    SpawnWeight: 3
+    SpawnWeight: 4
   - SceneName: 85 Rend
     SpawnWeight: 1
   - SceneName: 7 Dine
@@ -94,5 +94,5 @@ MonoBehaviour:
   - Fart2
   - Fart3
   - Fart5
-  serializedData: 41 Experimentation,2;220 Assurance,2;56 Vow,2;21 Offense,3;61 March,3;85
+  serializedData: 41 Experimentation,2;220 Assurance,2;56 Vow,2;21 Offense,4;61 March,4;85
     Rend,1;7 Dine,1;8 Titan,1;Others,2

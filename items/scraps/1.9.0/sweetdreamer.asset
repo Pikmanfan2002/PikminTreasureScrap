@@ -16,14 +16,15 @@ MonoBehaviour:
   IncompatibleBundles: []
   scrapType: 0
   itemName: Sweet Dreamer
-  minValue: 0
-  maxValue: 0
+  minValue: 70
+  maxValue: 105
   twoHanded: 0
   HandedAnimation: 0
   requiresBattery: 0
   isConductiveMetal: 0
   weight: 10
   prefab: {fileID: 8596177417331001075, guid: d8a6ad2c6cfc3b145a9ff2b772062950, type: 3}
+  useCooldown: 0
   grabSFX: GrabCardboardBox
   dropSFX: DropCardboardBox
   verticalOffset: 0
@@ -32,25 +33,25 @@ MonoBehaviour:
   rotationOffset: {x: 0, y: 0, z: -90}
   meshVariants: []
   materialVariants: []
-  useGlobalSpawnWeight: 1
+  useGlobalSpawnWeight: 0
   globalSpawnWeight: 100
   _perPlanetSpawnWeight:
   - SceneName: 41 Experimentation
-    SpawnWeight: 10
+    SpawnWeight: 25
   - SceneName: 220 Assurance
-    SpawnWeight: 10
+    SpawnWeight: 25
   - SceneName: 56 Vow
-    SpawnWeight: 10
+    SpawnWeight: 25
   - SceneName: 21 Offense
-    SpawnWeight: 10
+    SpawnWeight: 15
   - SceneName: 61 March
-    SpawnWeight: 10
+    SpawnWeight: 15
   - SceneName: 85 Rend
-    SpawnWeight: 10
+    SpawnWeight: 0
   - SceneName: 7 Dine
-    SpawnWeight: 10
+    SpawnWeight: 0
   - SceneName: 8 Titan
-    SpawnWeight: 10
+    SpawnWeight: 0
   - SceneName: Others
     SpawnWeight: 10
   planetSpawnBlacklist: []
@@ -93,5 +94,5 @@ MonoBehaviour:
   - Fart2
   - Fart3
   - Fart5
-  serializedData: 41 Experimentation,10;220 Assurance,10;56 Vow,10;21 Offense,10;61
-    March,10;85 Rend,10;7 Dine,10;8 Titan,10;Others,10
+  serializedData: 41 Experimentation,25;220 Assurance,25;56 Vow,25;21 Offense,15;61
+    March,15;85 Rend,0;7 Dine,0;8 Titan,0;Others,10
